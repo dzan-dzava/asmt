@@ -170,6 +170,8 @@ Will be a plus (for JS and FE disciplines):
 * Mobile
 * Databases and Message queues
 
+<br>
+
 ## Design Thinking and Documentation Skills
 
 ### Design Thinking (Decisions making)
