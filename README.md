@@ -1,3 +1,5 @@
+<h1 align="center">Assessment</h1>
+
 * **[Tech Expertise](#Tech-Expertise)**
 * **[Design Thinking and Documentation Skills](#Design-Thinking-and-Documentation-Skills)**
 * **[Quality, ENGX](#Quality-ENGX)**
@@ -271,7 +273,7 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 
 ## Software Development Process Knowledge
 
-## Methodologies
+### Methodologies
 
 * At least basic knowledge of SDLC phases and models and understanding how SDLC is organized on current project
 * Intermediate knowledge of the most popular software development methodologies (Agile (Scrum, Kanban), Waterfall)
