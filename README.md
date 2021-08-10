@@ -174,6 +174,9 @@ Will be a plus (for JS and FE disciplines):
 * Databases and Message queues
 
 <br>
+
+**[🡱 Back to Top 🡱](#table-of-contents)**
+
 <br>
 
 ## Design Thinking and Documentation Skills
@@ -221,6 +224,9 @@ Nice to have:
 * At least basic understanding of high cohesion, low coupling
 
 <br>
+
+**[🡱 Back to Top 🡱](#table-of-contents)**
+
 <br>
 
 ## Quality, ENGX
@@ -281,6 +287,9 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 * Trunk-based workflow
 
 <br>
+
+**[🡱 Back to Top 🡱](#table-of-contents)**
+
 <br>
 
 ## Software Development Process Knowledge
@@ -311,6 +320,9 @@ Nice to have:
 * Experience in estimations of a new application
 
 <br>
+
+**[🡱 Back to Top 🡱](#table-of-contents)**
+
 <br>
 
 ## Roles Played on a Project, Leadership, Soft Skills
@@ -381,3 +393,9 @@ Nice to have:
 Nice to have:
 
 * Able to provide examples of success stories in troubleshooting.
+
+<br>
+
+**[🡱 Back to Top 🡱](#table-of-contents)**
+
+<br>
