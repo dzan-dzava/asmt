@@ -1,10 +1,13 @@
-<h1 align="center">Assessment</h1>
+# Assessment
 
 * **[Tech Expertise](#Tech-Expertise)**
 * **[Design Thinking and Documentation Skills](#Design-Thinking-and-Documentation-Skills)**
 * **[Quality, ENGX](#Quality-ENGX)**
 * **[Software Development Process Knowledge](#Software-Development-Process-Knowledge)**
 * **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project-Leadership-Soft-Skills)**
+
+<br>
+<br>
 
 ## Tech Expertise
 
@@ -171,6 +174,7 @@ Will be a plus (for JS and FE disciplines):
 * Databases and Message queues
 
 <br>
+<br>
 
 ## Design Thinking and Documentation Skills
 
@@ -215,6 +219,9 @@ Intermediate knowledge of patterns and best practices:
 Nice to have:
 
 * At least basic understanding of high cohesion, low coupling
+
+<br>
+<br>
 
 ## Quality, ENGX
 
@@ -273,6 +280,9 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 * Forking workflow
 * Trunk-based workflow
 
+<br>
+<br>
+
 ## Software Development Process Knowledge
 
 ### Methodologies
@@ -299,6 +309,9 @@ Intermediate knowledge of:
 Nice to have:
 
 * Experience in estimations of a new application
+
+<br>
+<br>
 
 ## Roles Played on a Project, Leadership, Soft Skills
 
