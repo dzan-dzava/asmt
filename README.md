@@ -1,4 +1,8 @@
 * **[Tech Expertise](#Tech-Expertise)**
+* **[Design Thinking and Documentation Skills](#Design-Thinking-and-Documentation-Skills)**
+* **[Quality, ENGX](#Quality,-ENGX)**
+* **[Software Development Process Knowledge](#Software-Development-Process-Knowledge)**
+* **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project,-Leadership,-Soft-Skills)**
 
 ## Tech Expertise
 
@@ -163,3 +167,200 @@ Will be a plus (for JS and FE disciplines):
 * DevOps
 * Mobile
 * Databases and Message queues
+
+## Design Thinking and Documentation Skills
+
+### Design Thinking (Decisions making)
+
+* Able to suggest and prove technical decisions (to team or/and customer)
+* Candidate is a decision maker.
+* Able to explain which decisions he/she made on the project, what the cost of mistake was, which techniques did he/she use to find the best solution (which other options he/she covered, which criteria did he/she use).
+
+### Key project decisions & Architectural Decisions (choose technology, framework, tool, pattern)
+
+* Intermediate understanding of pros and cons of different technologies from a primary stack
+* Involved in project architectural decisions
+* Improves quality of corresponding project layer
+* Takes ownership for the technically challenging tasks
+
+### Work with Requirements
+
+* Able to understand the difference from functional and non-functional requirements
+* Clarify task details
+* Plays active part in the process of task decomposition and planning
+* Understanding of what DoD/DoR is
+
+### Documentation, Guidelines, Style Guides
+
+* Follows and applies code standards, guidelines, develop documentation
+* Able to create coding style guidelines, technical and project documentation including documentation for code
+* Able to read diagrams
+
+Nice to have:
+
+* Able to create unambiguous easy-to-understand software engineering diagrams
+
+### Patterns and Best Practices
+
+Intermediate knowledge of patterns and best practices:
+
+* design patterns used on his project, and able to compare these patterns
+* KISS, DRY, YAGNI
+* The meaning behind SOLID principles.
+
+Nice to have:
+
+* At least basic understanding of high cohesion, low coupling
+
+## Quality, ENGX
+
+### Quality gates & refactoring
+
+* Can explain what is the code quality (code complexity, code coverage, code smells) and how to measure it
+* Proactively proposes technical improvements for code quality on the project
+* Able to reason about the necessity of refactoring, its triggers and consequences.
+* Understands what Technical Debt is and how to deal with it
+* Has experience with Git Hooks, Linters, Formatters, tools like Sonar Qube
+
+Nice to have:
+
+* Candidate drives project quality/architecture enhancements
+
+### Code review
+
+* Code review process understanding and ability to explain to colleagues
+* Experience in code review process as reviewer
+
+### Automated Testing (TDD, Test Pyramid)
+
+Intermediate knowledge of:
+
+* TDD practices
+* at least one test framework
+* test pyramid and different testing types
+* creating reasonable and valuable unit-tests (FIRST principles, ...)
+
+Nice to have:
+
+* Experience with creating end-to-end automated acceptance tests
+* Experience with integration tests
+* Has deep understanding of TDD
+
+### CI/CD/CD
+
+Intermediate understanding of:
+
+* Continuous Integration, Continuous Delivery, Continuous Deployment
+* their differences
+
+Nice to have:
+
+* Experience with setting at least one CI/CD tool
+
+### GIT branching, Release strategies
+
+* Able to explain branching/release strategy at the current project
+
+At least basic knowledge of 1-2 branching strategies and workflows:
+
+* Centralized workflow
+* Feature branch workflow
+* Gitflow workflow
+* Forking workflow
+* Trunk-based workflow
+
+## Software Development Process Knowledge
+
+## Methodologies
+
+* At least basic knowledge of SDLC phases and models and understanding how SDLC is organized on current project
+* Intermediate knowledge of the most popular software development methodologies (Agile (Scrum, Kanban), Waterfall)
+* Follows established development process, can describe its pros and cons, understands compliance with the original framework (e.g., scrum vs scrum-but)
+* Can see issues and suggest improvements in the existing process
+* At least basic knowledge of engineering best practices (e.g. Extreme Programming), understands their pros and cons. Can describe which ones are used on the current project and why.
+
+Nice to have:
+
+* Active participation and providing suggestions how to improve the development and delivery process established on the project
+
+### Estimations and Work planning
+
+Intermediate knowledge of:
+
+* estimation notions (absolute vs relative units, short vs long term, small vs big team)
+* estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points, three-point)
+* how to solve under-/over- estimation problems for their tasks
+* how to estimate unknown tasks
+
+Nice to have:
+
+* Experience in estimations of a new application
+
+## Roles Played on a Project, Leadership, Soft Skills
+
+### Project Roles (Responsibilities)
+
+* 1+ year in Key Development Role real project role (not just a formal UPSA position title)
+* Takes ownership for technically challenging modules
+* As a key developer on current project performs tasks analysis, clarification, decomposition and execution control
+* With the team of at least 1 developer is able to successfully kick-off a new project and build corresponding layer of competency (Front-End or Back-End)
+
+### Lead role (team size that is directly reporting)
+
+* Is able to lead/supervise work of 1-2 developers
+* Is able to help with onboarding/adaptation process for newcomer
+
+Nice to have:
+
+* Experience of leading/supervising work of 2+ developers
+* Is able to manage group discussions (declare agenda, maintain a constructive conversation flow, meetings planning)
+
+### Planning, Delegation, Motivation, Conflicts
+
+* Understands and applies delegation of tasks, is able to control their execution
+* Able to identify conflicts & facilitate solving process with peers or among supervised developer
+* Able to identify the necessity to escalate conflicts
+* Understands motivation types and its importance
+
+### Customer Relations
+
+* Active participation in project meetings (presentation of team results, planning meetings, etc.)
+* Understands how to drive project meetings
+* Regularly clarifies requirements and suggests improvements
+* Understanding of the things which should or shouldn't be exposed to a Client
+
+Nice to have:
+
+* Business trips
+* Onsite work
+* Experience conducting project demo for the Customer
+* Experience driving project meetings
+
+### Negotiations
+
+* Able to advocate their point of view considering pros and cons of the suggested solution
+
+Nice to have:
+
+* Success story of convincing a customer to implement the proposed technical solution
+
+### Presentation Skills
+
+* Able to present design decisions to the team
+* Clearly explain thoughts based on research results
+* Polite and formal way of business communication
+
+### Difficult cases, Conflicts
+
+* Escalates customer related issues if they occur
+* Can suggest possible ways to fix the issue
+
+### Self-management, Time-management
+
+* Self managed, can work without supervision
+* Able to solve issues with unclear requirements
+* Efficiently manages time to meet project goals using time management tips and work day planning techniques
+
+Nice to have:
+
+* Able to provide examples of success stories in troubleshooting.
