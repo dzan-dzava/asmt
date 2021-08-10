@@ -1,8 +1,8 @@
 * **[Tech Expertise](#Tech-Expertise)**
 * **[Design Thinking and Documentation Skills](#Design-Thinking-and-Documentation-Skills)**
-* **[Quality, ENGX](#Quality,-ENGX)**
+* **[Quality, ENGX](#Quality-ENGX)**
 * **[Software Development Process Knowledge](#Software-Development-Process-Knowledge)**
-* **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project,-Leadership,-Soft-Skills)**
+* **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project-Leadership-Soft-Skills)**
 
 ## Tech Expertise
 
