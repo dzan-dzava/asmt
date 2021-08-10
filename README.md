@@ -175,7 +175,7 @@ Will be a plus (for JS and FE disciplines):
 
 <br>
 
-**[🡱 Back to Top 🡱](#table-of-contents)**
+**[🡱 Back to Top 🡱](#Assessment)**
 
 <br>
 
@@ -225,7 +225,7 @@ Nice to have:
 
 <br>
 
-**[🡱 Back to Top 🡱](#table-of-contents)**
+**[🡱 Back to Top 🡱](#Assessment)**
 
 <br>
 
@@ -288,7 +288,7 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 
 <br>
 
-**[🡱 Back to Top 🡱](#table-of-contents)**
+**[🡱 Back to Top 🡱](#Assessment)**
 
 <br>
 
@@ -321,7 +321,7 @@ Nice to have:
 
 <br>
 
-**[🡱 Back to Top 🡱](#table-of-contents)**
+**[🡱 Back to Top 🡱](#Assessment)**
 
 <br>
 
@@ -396,6 +396,6 @@ Nice to have:
 
 <br>
 
-**[🡱 Back to Top 🡱](#table-of-contents)**
+**[🡱 Back to Top 🡱](#Assessment)**
 
 <br>
