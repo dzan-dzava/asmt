@@ -218,6 +218,7 @@ Intermediate knowledge of patterns and best practices:
 * design patterns used on his project, and able to compare these patterns
 * KISS, DRY, YAGNI
 * The meaning behind SOLID principles.
+  * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 Nice to have:
 
