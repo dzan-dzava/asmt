@@ -37,7 +37,6 @@ At least Intermediate level:
   * Inheritance
   * Polymorphism
   * Dependency injection
-  * SOLID
 * FP
   * Pure functions
   * Immutability
@@ -298,7 +297,14 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 ### Methodologies
 
 * At least basic knowledge of SDLC phases and models and understanding how SDLC is organized on current project
+  * [Top 30 SDLC Interview Questions and Answers](https://www.tutorialsmate.com/2020/05/sdlc-interview-questions.html)
+  * [Top 27 SDLC Interview Questions and Answers (2021 Update)](https://www.guru99.com/sdlc-interview-questions.html)
+  * [SOFTWARE DEVELOPMENT LIFECYCLE (SDLC) INTERVIEW QUESTIONS & ANSWERS](https://www.wisdomjobs.com/e-university/software-development-lifecycle-sdlc-interview-questions.html)
 * Intermediate knowledge of the most popular software development methodologies (Agile (Scrum, Kanban), Waterfall)
+  * [Basic Agile Interview Questions](https://www.interviewbit.com/agile-interview-questions/)
+  * [22 Must Know Agile Methodology Interview Questions & Answers: Ultimate Guide 2021](https://www.upgrad.com/blog/must-know-agile-methodology-interview-questions/)
+  * [Agile Software Development in 2021: 27 questions & answers](https://www.digitalnatives.hu/blog/agile-software-development/)
+  * [25 Best Agile Testing Interview Questions And Answers](https://www.softwaretestinghelp.com/25-best-agile-testing-interview-questions-and-answers/)
 * Follows established development process, can describe its pros and cons, understands compliance with the original framework (e.g., scrum vs scrum-but)
 * Can see issues and suggest improvements in the existing process
 * At least basic knowledge of engineering best practices (e.g. Extreme Programming), understands their pros and cons. Can describe which ones are used on the current project and why.
