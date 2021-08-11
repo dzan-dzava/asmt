@@ -33,18 +33,35 @@ At least Intermediate level:
 * Able to compare OOP/FP/FRP, mention pros/cons
 * OOP
   * Encapsulation
+    * https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
   * Abstraction
+    * https://stackify.com/oop-concept-abstraction/
   * Inheritance
+    * https://stackify.com/oop-concept-inheritance/
   * Polymorphism
+    * https://stackify.com/oop-concept-polymorphism/
   * Dependency injection
+    * https://stackify.com/dependency-injection/
+  * Dependency Inversion
+    * https://stackify.com/dependency-inversion-principle/
 * FP
   * Pure functions
+    * https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
   * Immutability
+    * https://www.learningjournal.guru/article/scala/functional-programming/immutability-in-functional-programming/
+    * https://www.quora.com/Why-is-immutability-important-in-functional-programming
   * Functions as first-class entities
+    * https://www.javascripttutorial.net/javascript-functions-are-first-class-citizens/
   * Functions composition
+    * https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0
   * High order functions
+    * https://jstutorial.medium.com/higher-order-functions-in-javascript-732dc7a1952d
   * Recursion
+    *https://towardsdatascience.com/what-is-tail-recursion-elimination-or-why-functional-programming-can-be-awesome-43091d76915e 
+    * https://gist.github.com/raymonstah/283d2a9cb74c4597e80e
   * Currying/Memoization
+    * https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983
+    * https://medium.com/swlh/functional-programming-memoization-c2af275a0b1d
 
 ### Communication Protocols (HTTP, WS, REST, GraphQL, ...)
 
