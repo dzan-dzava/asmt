@@ -14,6 +14,7 @@
 ### Language (Javascript, Typescript, Flow, ...)
 
 * JS Core at Advanced level (Intermediate for Front-End discipline)
+  * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 * Knowing the pros and cons of using TypeScript/Flow on the project
 * Intermediate level of HTML, CSS
 * Has at least one skill at Advanced or Expert level in UPSA profile related to a candidate's primary technology stack
@@ -33,35 +34,35 @@ At least Intermediate level:
 * Able to compare OOP/FP/FRP, mention pros/cons
 * OOP
   * Encapsulation
-    * https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
+    * [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
   * Abstraction
-    * https://stackify.com/oop-concept-abstraction/
+    * [OOP Concept for Beginners: What is Abstraction?](https://stackify.com/oop-concept-abstraction/)
   * Inheritance
-    * https://stackify.com/oop-concept-inheritance/
+    * [OOP Concept for Beginners: What is Inheritance?](https://stackify.com/oop-concept-inheritance/)
   * Polymorphism
-    * https://stackify.com/oop-concept-polymorphism/
+    * [OOP Concepts for Beginners: What is Polymorphism](https://stackify.com/oop-concept-polymorphism/)
   * Dependency injection
-    * https://stackify.com/dependency-injection/
+    * [Design Patterns Explained – Dependency Injection with Code Examples](https://stackify.com/dependency-injection/)
   * Dependency Inversion
-    * https://stackify.com/dependency-inversion-principle/
+    * [SOLID Design Principles Explained: Dependency Inversion Principle with Code Examples](https://stackify.com/dependency-inversion-principle/)
 * FP
   * Pure functions
-    * https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
+    * [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
   * Immutability
-    * https://www.learningjournal.guru/article/scala/functional-programming/immutability-in-functional-programming/
-    * https://www.quora.com/Why-is-immutability-important-in-functional-programming
+    * [Immutability in Functional Programming](https://www.learningjournal.guru/article/scala/functional-programming/immutability-in-functional-programming/)
+    * [Why is immutability important in functional programming?](https://www.quora.com/Why-is-immutability-important-in-functional-programming)
   * Functions as first-class entities
-    * https://www.javascripttutorial.net/javascript-functions-are-first-class-citizens/
+    * [JavaScript Functions are First-Class Citizens](https://www.javascripttutorial.net/javascript-functions-are-first-class-citizens/)
   * Functions composition
-    * https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0
+    * [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
   * High order functions
-    * https://jstutorial.medium.com/higher-order-functions-in-javascript-732dc7a1952d
+    * [Higher-order Functions In JavaScript](https://jstutorial.medium.com/higher-order-functions-in-javascript-732dc7a1952d)
   * Recursion
-    *https://towardsdatascience.com/what-is-tail-recursion-elimination-or-why-functional-programming-can-be-awesome-43091d76915e 
-    * https://gist.github.com/raymonstah/283d2a9cb74c4597e80e
+    * [How Functional Programming can be Awesome: Tail Recursion Elimination](https://towardsdatascience.com/what-is-tail-recursion-elimination-or-why-functional-programming-can-be-awesome-43091d76915e)
+    * [Quicksort in JS using FP & Recursion](https://gist.github.com/raymonstah/283d2a9cb74c4597e80e)
   * Currying/Memoization
-    * https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983
-    * https://medium.com/swlh/functional-programming-memoization-c2af275a0b1d
+    * [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+    * [Functional Programming: Understanding Memoization](https://medium.com/swlh/functional-programming-memoization-c2af275a0b1d)
 
 ### Communication Protocols (HTTP, WS, REST, GraphQL, ...)
 
