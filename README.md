@@ -464,3 +464,9 @@ Nice to have:
 * A talk about angular compiler: [Deep Dive into the Angular Compiler | Alex Rickabaugh | #AngularConnect](https://www.youtube.com/watch?v=anphffaCZrQ)
 * Zone.js: [Brian Ford - Zones - NG-Conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
 * Stuff about change detection: [Optimize and debug change detection like a pro | Max Koretskyi | AngularConnect 2018](https://www.youtube.com/watch?v=DsBy9O0c6eo&t=12s)
+
+<br>
+
+**[🡱 Back to Top 🡱](#Assessment)**
+
+<br>
