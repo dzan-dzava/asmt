@@ -5,6 +5,7 @@
 * **[Quality, ENGX](#Quality-ENGX)**
 * **[Software Development Process Knowledge](#Software-Development-Process-Knowledge)**
 * **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project-Leadership-Soft-Skills)**
+* **[Shared Experience](#Shared-Experience)**
 
 <br>
 <br>
@@ -424,3 +425,42 @@ Nice to have:
 **[🡱 Back to Top 🡱](#Assessment)**
 
 <br>
+
+## Shared Experience
+
+### Questions
+
+* What is functional programming and why is it useful? Good to mention ngrx store and etc too.
+* Talk about security issues, OWASP top 10 (be able to list at least part), how can you test/fix them.
+* What are nonfunctional requirements in a project? What do you do to implement them? [security, code quality, etc. quality gates, sonar.]
+* What is event loop in javascript? How do async events work in it? What are micro and macrotask queues?
+* What is dom/cssom, how is render tree constructed (general overview)
+* What is a critical rendering path and why is it important to keep it short? What's the difference between having javascript in html async or deferred?
+* What is layout thrashing and how can you avoid it?
+* What's the difference between hot and cold observables?
+* Which project management framework is used on your current project? What's the difference between agile, waterfall, kanban? What kinds of projects can benefit from each?
+* What techniques of storypoint estimation do you know in agile? (planning poker, tshirt sizes, etc). What is the benefit of having storypoint estimation instead of time estimations? How do you estimate tasks that are not familiar and you're not sure how it should be implemented?
+* What is ci/cd? why is it important?
+* Change detection in angular. What is zone.js used for? What are different change detection strategies? + lifecycle hooks in angular
+* Dependency injection in angular. Why is it convenient, how does it work (general overview)
+* What is loose coupling/tight coupling (OOP), why is loose coupling important. OOP stuff like SOLID.
+* What happens between writing url in the browser and hitting enter, until viewing the page on your screen?
+* What happens between ng serve and viewing the page on your screen?
+* Good to know: JIT and AOT, which is better and why?
+* What is behavioral testing and functional testing? What is whitebox/blackbox testing? What kind of tests are usually written? (unit, integration, E2E. differences, + describe the test pyramid)
+* General question: What would you change about javascript if you could?
+* Accessibility - for example, you have a form with two inputs and a button, what's the minimum accessibility you should take care of? (labels, using html tags like <button> instead of divs, etc)
+* How would you explain closures to someone?
+* How would you manage a team where it's only you and junior developers? How do you make sure the work is getting done?
+* What is code quality, how do you ensure it, why are code reviews important and how do you do them, what do you pay attention to, etc.
+* async/await, generator functions, promises, observables.
+
+### Useful Links
+
+* How angular deals with security issues: [Security](https://angular.io/guide/security)
+* Description of event loop: [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* TDZ: [Advanced JavaScript ES6 — Temporal Dead Zone, Default Parameters And Let vs Var — Deep dive!](https://medium.com/nmc-techblog/advanced-javascript-es6-temporal-dead-zone-default-parameters-and-let-vs-var-deep-dive-ca588fcde21b)
+* Interface vs type aliases: [Interface vs Type alias in TypeScript 2.7](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
+* A talk about angular compiler: [Deep Dive into the Angular Compiler | Alex Rickabaugh | #AngularConnect](https://www.youtube.com/watch?v=anphffaCZrQ)
+* Zone.js: [Brian Ford - Zones - NG-Conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
+* Stuff about change detection: [Optimize and debug change detection like a pro | Max Koretskyi | AngularConnect 2018](https://www.youtube.com/watch?v=DsBy9O0c6eo&t=12s)
