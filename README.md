@@ -188,7 +188,21 @@ Intermediate knowledge and experience of performance optimizations:
 Intermediate understanding of:
 
 * Browser API (Console, Fetch, Storage, History)
+  * [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+  * [6 Browser APIs You Need To Know As A Front End Developer](https://javascript.plainenglish.io/6-browser-apis-you-need-to-know-as-a-front-end-developer-76752633280b)
+  * [Understanding Browser APIs](https://javascript.plainenglish.io/understanding-browser-apis-83a570a62840)
+  * [10 Useful Web APIs for 2020](https://blog.bitsrc.io/10-useful-web-apis-for-2020-8e43905cbdc5)
+  * [Better Data Management With JavaScript Modern Browsers APIs](https://medium.com/swlh/better-data-management-with-javascript-modern-browsers-apis-8ef0f389bb8d)
+  * [Enhance Your User Experience With the Modern Browser JavaScript APIs](https://levelup.gitconnected.com/enhance-your-user-experience-with-the-modern-browser-javascript-apis-7ab70464e695)
 * BOM, DOM, CSSOM
+  * [DOM, BOM, CSSOM](https://frontendmasters.com/guides/learning-roadmap/dom-bom-cssom/)
+  * [Understanding the basics of DOM (Document Object Model)](https://medium.com/jspoint/understanding-basics-of-dom-265b73d958d1)
+  * [HTML DOM in Depth](https://medium.com/the-ui-girl/html-dom-in-depth-ae24965d1920)
+  * [You know DOM, but do you know BOM?](https://medium.com/front-end-weekly/you-know-dom-but-do-you-know-bom-a909a4356df9)
+  * [JavaScript BOM](https://www.javascripttutorial.net/javascript-bom/)
+  * [Understanding Browser Object Model (BOM) in JavaScript](https://morioh.com/p/ce7c8fd03b0b)
+  * [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
+  * [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
 
 ### Tools (NPM, Webpack, Chrome DevTools, ...)
 
