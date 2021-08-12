@@ -120,14 +120,53 @@ Nice to have:
 At least basic knowledge of different security issues and possible protections:
 
 * XSS
+  * [Cross Site Scripting (XSS)](https://owasp.org/www-community/attacks/xss/)
+  * [What is cross-site scripting (XSS) and how to prevent it?](https://portswigger.net/web-security/cross-site-scripting)
+  * [What is a cross-site scripting (XSS) attack?](https://www.ptsecurity.com/ww-en/analytics/knowledge-base/what-is-a-cross-site-scripting-xss-attack/)
+  * [Security Basics: XSS Explained](https://medium.com/swlh/security-basics-xss-explained-3ade8071aaa1)
+  * [XSS for beginners…](https://medium.com/swlh/xss-for-beginners-6752b1b1487d)
+  * [Guidance to Cross-Site Scripting for beginners- I: Reflected XSS](https://medium.com/infosec/guidance-to-cross-site-scripting-for-beginners-i-reflected-xss-591c950b87d7)
+  * [XSS: What it is, how it works, and how to prevent it](https://medium.com/codelighthouse/xss-what-it-is-how-it-works-and-how-to-prevent-it-454629e3a0da)
+  * [Security: Preventing Cross-site Scripting (XSS)](https://infosecwriteups.com/injection-vulnerabilities-cross-site-scripting-xss-7fd9dc28cc47)
 * CORS
+  * [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+  * [Security Risks of CORS](https://medium.com/@ehayushpathak/security-risks-of-cors-e3f4a25c04d7)
+  * [What is CORS (cross-origin resource sharing)? Tutorial & Examples](https://portswigger.net/web-security/cors)
+  * [How to Securely Implement Cross-Origin Resource Sharing (CORS)](https://www.pivotpointsecurity.com/blog/cross-origin-resource-sharing-security/)
+  * [Understanding Cross-Origin Resource Sharing Vulnerabilities](https://www.tenable.com/blog/understanding-cross-origin-resource-sharing-vulnerabilities)
+  * [CORS OriginHeaderScrutiny](https://owasp.org/www-community/attacks/CORS_OriginHeaderScrutiny)
 * SQL injections
+  * [What is SQL Injection? Tutorial & Examples](https://portswigger.net/web-security/sql-injection)
+  * [SQL (Structured query language) Injection](https://www.imperva.com/learn/application-security/sql-injection-sqli/)
+  * [What is SQL Injection (SQLi) and How to Prevent It](https://www.acunetix.com/websitesecurity/sql-injection/)
+  * [SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
+  * [What is an SQL Injection Cheat Sheet?](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 * Auth (JWT, OAuth, Basic, etc.) [at least on current/previous project]
+  * [Quick Guide to Sec: Basic Auth, SAML, Keys, OAuth, JWT, and Tokens](https://dzone.com/articles/my-security-notes)
+  * [The Difference Between HTTP Auth, API Keys, and OAuth](https://nordicapis.com/the-difference-between-http-auth-api-keys-and-oauth/)
+  * [API Keys vs OAuth Tokens vs JSON Web Tokens](https://zapier.com/engineering/apikey-oauth-jwt/)
+  * [4 Most Used REST API Authentication Methods](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
+  * [JSON Web Tokens (JWT) — the only explanation you will ever need](https://arielweinberger.medium.com/json-web-token-jwt-the-only-explanation-youll-ever-need-cf53f0822f50)
+  * [OAuth 2.0 Client Authentication](https://darutk.medium.com/oauth-2-0-client-authentication-4b5f929305d4)
+  * [Why do we need the JSON Web Token (JWT) in the modern web?](https://medium.com/swlh/why-do-we-need-the-json-web-token-jwt-in-the-modern-web-8490a7284482)
+  * [Simple JWT Authentication explanation](https://medium.com/@mmoshikoo/simple-jwt-authentication-explanation-81e930a1a01f)
 
 Nice to have:
 
 * CSP
+  * [What is a Content Security Policy (CSP) and why is it important?](https://blog.sqreen.com/what-is-a-csp/)
+  * [Content Security Policy](https://owasp.org/www-community/controls/Content_Security_Policy)
+  * [What is CSP?](https://medium.com/@manishasangwan/what-is-csp-189c43642efa)
+  * [Content-Security-Policy (CSP) Bypass Techniques](https://medium.com/@bhaveshthakur2015/content-security-policy-csp-bypass-techniques-e3fa475bfe5d)
 * CSRF
+  * [Introduction to CSRF](https://medium.com/@charithra/introduction-to-csrf-a329badfca49)
+  * [Cross Site Request Forgery (CSRF)](https://owasp.org/www-community/attacks/csrf)
+  * [Cross-site request forgery (CSRF)](https://portswigger.net/web-security/csrf)
+  * [CSRF PROTECTION](https://medium.com/@umindu12/csrf-protection-fad7916b57f6)
+  * [Cross-site Request Forgery(CSRF) protection](https://medium.com/@avirj/cross-site-request-forgery-csrf-protection-1ef22b2c9dd2)
+  * [CSRF - A Sleeping giant in the world of web security](https://medium.com/@ashifm4/protection-from-cross-site-request-forgery-csrf-9cf4f542e268)
+  * [Cross Site Request Forgery (CSRF)](https://asfiyashaikh.medium.com/cross-site-request-forgery-csrf-8ce6f9ee0379)
+  * [Cross-Site Request Forgery](https://athiththan11.medium.com/cross-site-request-forgery-aa396341eb7c)
 
 ### Performance
 
