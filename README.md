@@ -175,6 +175,11 @@ Intermediate knowledge and experience of performance optimizations:
 * JavaScript Profiling and Debugging
 * Network Optimizations
 * JavaScript Performance Optimization Techniques
+  * [20 Best Practices for Improving JavaScript Performance](https://www.keycdn.com/blog/javascript-performance)
+  * [12 Tips for Improving JavaScript Performance](https://nodesource.com/blog/improve-javascript-performance/)
+  * [25 Techniques for Javascript Performance Optimization](https://www.linkedin.com/pulse/25-techniques-javascript-performance-optimization-steven-de-salas/)
+  * [Website Performance Optimization: The Definitive Guide](https://towardsdev.com/website-performance-optimization-267b28b877df)
+  * [Frontend Optimization: 8 Tips to Improve Web Performance](https://medium.com/@inverita/frontend-optimization-8-tips-to-improve-web-performance-29af4b00efe7)
 * Memory Leaks (detection tools and prevention)
 * JavaScript Obfuscation and Minification
 * Framework optimization techniques (Angular, React, or others)
