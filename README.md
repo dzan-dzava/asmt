@@ -106,7 +106,14 @@ Intermediate knowledge of:
 Nice to have:
 
 * RPC (JSON RPC)
+  * [Blockchain Underpinnings](https://medium.com/@ConsenSys/blockchain-underpinnings-2c43ba03ecc9)
+  * [A simple Retrofit-style JSON-RPC client](https://medium.com/@ntoskrnl/a-simple-retrofit-style-json-rpc-client-5db8554b7c8a)
 * GraphQL
+  * [GraphQL explained](https://www.apollographql.com/blog/graphql/basics/graphql-explained/)
+  * [A Brief Introduction to GraphQL](https://betterprogramming.pub/a-brief-introduction-to-graphql-b7c039d60414)
+  * [GraphQL vs. REST](https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/?source=user_profile---------11-------------------)
+  * [REST API Vs GraphQL: Fetch What You Want!](https://medium.com/the-programmer/rest-api-vs-graphql-fetch-what-you-want-a7c96c446dbf)
+  * [GraphQL vs. REST](https://medium.com/codex/graphql-vs-rest-c0e14c9f9f1)
 
 ### Security (XSS, CSP, SQL injections, OWASP Top 10, CORS, CSRF, Auth)
 
