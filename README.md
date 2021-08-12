@@ -202,7 +202,12 @@ Intermediate understanding of:
 Advanced knowledge of:
 
 * CSS fundamentals (colors, fonts, box-model, ...)
+  * [CSS Box Model Properties – Explained With Examples](https://www.freecodecamp.org/news/css-box-model-explained-with-examples/)
+  * [Six Questions to Understand the CSS Box Model](https://medium.com/launch-school/https-medium-com-dembasiby-understanding-the-css-box-model-b005a82593a6)
+  * [Understanding the CSS Box-Model](https://medium.com/cssclass-com/understanding-the-css-box-model-97e4228670d6)
 * CSS positioning and layout (Flex/Grid/Table/...)
+  * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### CSS Preprocessors
 
