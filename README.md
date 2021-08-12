@@ -29,12 +29,17 @@ At least Intermediate level:
   * [5 Use Cases for reduce() in JavaScript](https://javascript.plainenglish.io/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
 * Algorithms complexity basics (O(1), O(N), ...)
   * [Why is Time Complexity Essential and What is Time Complexity?](https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/)
+  * [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
   * [Algorithmic Complexity [101]](https://towardsdatascience.com/algorithmic-complexity-101-28b567cc335b)
   * [Algorithm Complexity and the Big O](https://levelup.gitconnected.com/algorithm-complexity-and-the-big-o-cb703e093faa)
   * [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
   * [Algorithm Time Complexity and Big O Notation](https://medium.com/@StueyGK/algorithm-time-complexity-and-big-o-notation-51502e612b4d)
   * [Complexity: How Much Time and Space Does Your Algorithm Take to Run?](https://betterprogramming.pub/complexity-how-much-time-and-space-does-your-algorithm-take-82598873541f)
 * Data structures: array, stack, queue, linked-list, tree, hash table (map), set
+  * [Data Structures — Simplified and Classified](https://towardsdatascience.com/data-structures-simplified-and-classified-e0c1e304436b)
+  * [Seven (7) Essential Data Structures for a Coding Interview and associated common questions](https://towardsdatascience.com/seven-7-essential-data-structures-for-a-coding-interview-and-associated-common-questions-72ceb644290)
+  * [8 Common Data Structures every Programmer must know](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
+  * [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
 
 ### Programming Paradigms (OOP, FP, FRP)
 
