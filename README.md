@@ -83,8 +83,25 @@ At least Intermediate level:
 Intermediate knowledge of:
 
 * HTTP vs HTTPS vs HTTP/2
+  * [An introduction to HTTP: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
+  * [HTTP versus HTTPS versus HTTP/2](https://www.tunetheweb.com/blog/http-versus-https-versus-http2/)
+  * [The HTTPS protocol explained! — Under the Hood](https://anushadasari.medium.com/the-https-protocol-explained-under-the-hood-c7bd9f9aaa7b)
+  * [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2)
+  * [HTTP/2: the difference between HTTP/1.1, benefits and how to use it](https://factoryhr.medium.com/http-2-the-difference-between-http-1-1-benefits-and-how-to-use-it-38094fa0e95b)
+  * [HTTP vs HTTPS: What is Difference Between HTTP and HTTPS?](https://www.guru99.com/difference-http-vs-https.html)
+  * [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://medium.com/jspoint/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
+  * [7 HTTP methods every web developer should know and how to test them](https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them)
+  * [HTTP Methods](https://restfulapi.net/http-methods/)
+  * [Ultimate Guide To 9 Common HTTP Methods](https://nordicapis.com/ultimate-guide-to-all-9-standard-http-methods/)
 * WS vs Polling
+  * [WebSockets vs Long Polling](https://ably.com/blog/websockets-vs-long-polling)
+  * [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
+  * [Long Polling vs WebSockets vs Server-Sent Events](https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1)
 * RESTful API
+  * [REST API: the basics](https://towardsdatascience.com/rest-api-the-basics-d91859537c9d)
+  * [REST API (RESTful API)](https://searchapparchitecture.techtarget.com/definition/RESTful-API)
+  * [What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka](https://www.youtube.com/watch?v=rtWH70_MMHM)
+  * [What’s the Difference Between REST and RESTful?](https://nordicapis.com/whats-the-difference-between-rest-and-restful/)
 
 Nice to have:
 
