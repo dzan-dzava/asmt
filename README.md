@@ -25,7 +25,15 @@
 At least Intermediate level:
 
 * Basic operations: sort, map, filter, reduce
+  * [Javascript.reduce()](https://andepaulj.medium.com/javascript-reduce-79aab078da23)
+  * [5 Use Cases for reduce() in JavaScript](https://javascript.plainenglish.io/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
 * Algorithms complexity basics (O(1), O(N), ...)
+  * [Why is Time Complexity Essential and What is Time Complexity?](https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/)
+  * [Algorithmic Complexity [101]](https://towardsdatascience.com/algorithmic-complexity-101-28b567cc335b)
+  * [Algorithm Complexity and the Big O](https://levelup.gitconnected.com/algorithm-complexity-and-the-big-o-cb703e093faa)
+  * [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+  * [Algorithm Time Complexity and Big O Notation](https://medium.com/@StueyGK/algorithm-time-complexity-and-big-o-notation-51502e612b4d)
+  * [Complexity: How Much Time and Space Does Your Algorithm Take to Run?](https://betterprogramming.pub/complexity-how-much-time-and-space-does-your-algorithm-take-82598873541f)
 * Data structures: array, stack, queue, linked-list, tree, hash table (map), set
 
 ### Programming Paradigms (OOP, FP, FRP)
