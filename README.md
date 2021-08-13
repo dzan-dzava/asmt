@@ -242,11 +242,25 @@ Intermediate understanding of:
   * [Browser Object Model](https://www.javatpoint.com/browser-object-model)
 * event delegation
   * [A Simple Explanation of Event Delegation in JavaScript](https://dmitripavlutin.com/javascript-event-delegation/)
+  * [Part 4: What is Event Delegation in JavaScript?](https://medium.com/@bretdoucette/part-4-what-is-event-delegation-in-javascript-f5c8c0de2983)
+  * [Event delegation](https://javascript.info/event-delegation)
+  * [Importance of JavaScript Event Delegation](https://medium.com/internshala-tech/how-to-handle-events-dynamically-using-javascript-abe18faac3f5)
+  * [Event Propagation & Event delegation](https://medium.com/@marjuhirsh/event-propagation-event-delegation-7d3db1baf02a)
+  * [Event Propagation & Delegation](https://anil-pace.medium.com/how-javascript-event-delegation-works-5d00f7a37871)
+  * [JS Interview Question: Explain event delegation](https://rlynjb.medium.com/js-interview-question-explain-event-delegation-878c132113f4)
 * event bubbling, event capturing
   * [Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+  * [Deep dive into JavaScript event bubbling and capturing](https://blog.logrocket.com/deep-dive-into-event-bubbling-and-capturing/)
+  * [3 Phases of JavaScript Event](https://javascript.plainenglish.io/3-phases-of-javascript-event-2ff09aa76b03)
+  * [Event Bubbling and Event Capturing in JavaScript](https://vsvaibhav2016.medium.com/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e)
+  * [What is Event Bubbling and Event Capturing in JavaScript?](https://javascript.plainenglish.io/event-bubbling-and-capturing-in-javascript-661af681bb29)
+  * [11111111](1111111111)
+  * [11111111](1111111111)
 * document fragment
   * [DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
   * [Document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
+  * [DOM Manipulation — Document Fragments and Stylesheets](https://blog.devgenius.io/dom-manipulation-document-fragments-and-stylesheets-b3c3db3fb5f0)
+  * [11111111](1111111111)
 
 
 ### Tools (NPM, Webpack, Chrome DevTools, ...)
