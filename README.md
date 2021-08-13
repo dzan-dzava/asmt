@@ -401,6 +401,7 @@ Nice to have:
 <br>
 
 ## Quality, ENGX
+[EngX Bootcamp](https://elearn.epam.com/courses/course-v1:EPAM+EngXBootcamp+2020/courseware/1449ddea075b425080ae24a5fc970477/a2e2914d134b424196582858f7726d04/)
 
 ### Quality gates & refactoring
 
