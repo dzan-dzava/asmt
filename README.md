@@ -194,6 +194,7 @@ Intermediate knowledge and experience of performance optimizations:
   * [JavaScript Obfuscation: The Definitive Guide (2021)](https://blog.jscrambler.com/javascript-obfuscation-the-definitive-guide)
   * [What is minification vs obfuscation?](https://grantwinney.com/minification-vs-obfuscation/)
   * [What is minification in JavaScript?](https://www.cloudflare.com/en-gb/learning/performance/why-minify-javascript-code/)
+  * [Angular Build Optimization: #2 | Compression](https://medium.com/@subodhkumarjc/angular-build-optimization-part-2-compression-b866dd0593c3)
 * Framework (Angular) optimization techniques
   * [10 Tricks to Optimize Your Angular App](https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0)
   * [Angular Performance Tuning: 15 Ways to Build Sophisticated Web Apps](https://www.simform.com/blog/angular-performance/)
@@ -253,6 +254,8 @@ Intermediate understanding of:
 * Advanced knowledge of package managers (NPM, Yarn, package.json configuration, lock files)
   * [What is npm?](https://www.w3schools.com/whatis/whatis_npm.asp)
   * [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
+  * [5 Advanced npm package.json configuration tips](https://davidwells.io/blog/advanced-package-json-tips)
+  * [Developing and Publishing an NPM Package](https://auth0.com/blog/developing-npm-packages/)
   * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
 * Advanced knowledge of browser tools for project needs (Chrome DevTools).
   * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
