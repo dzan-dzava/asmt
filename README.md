@@ -328,6 +328,12 @@ Basic understanding of:
 [comment]: <> (vaxo.sv)
 * Able to implement animations via CSS and JS
 * Intermediate understanding pros/cons of animation via CSS or JS
+  * [CSS Versus JavaScript Animations](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript)
+  * [Myth Busting: CSS Animations vs. JavaScript](https://css-tricks.com/myth-busting-css-animations-vs-javascript/)
+  * [Using CSS Animations vs JavaScript Animations](https://www.vibrantsoftware.com/resources/blog/vibrant/2017/05/03/using-css-animations-vs-javascript-animations)
+  * [The advantages and disadvantages of different animation technologies](https://viscircle.de/the-advantages-and-disadvantages-of-different-animation-technologies/?lang=en)
+  * [What are the advantages and disadvantages of CSS3 animation and JS animation](https://developpaper.com/question/what-are-the-advantages-and-disadvantages-of-css3-animation-and-js-animation/)
+  * [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
 
 ### SPA vs MPA
 [comment]: <> (vaxo.sv)
