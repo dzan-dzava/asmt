@@ -458,6 +458,9 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 * Forking workflow
 * Trunk-based workflow
 
+* git
+  * [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+  * [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
 <br>
 
 **[🡱 Back to Top 🡱](#Assessment)**
