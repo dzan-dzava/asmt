@@ -45,8 +45,26 @@ At least Intermediate level:
 ### Programming Paradigms (OOP, FP, FRP)
 
 * Has Advanced knowledge of OOP
+  * [A Guide to Object-Oriented Programming in JavaScript](https://betterprogramming.pub/object-oriented-programming-in-javascript-b3bda28d3e81)
+  * [Object-Oriented JavaScript](https://levelup.gitconnected.com/object-oriented-javascript-da4a24b80a7f)
+  * [Object Oriented Programming in JavaScript](https://levelup.gitconnected.com/object-oriented-programming-in-javascript-d45007d06333)
+  * [OOP Concepts explained with real world scenario with Java code](https://medium.com/technology-hits/oop-concepts-explained-with-real-world-scenario-java-884f425e1d57)
+  * [OOP: Everything you need to know about Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b)
+  * [Fundamentals Of OOP](https://medium.com/@samyak915jain/fundamentals-of-oop-416582652a84)
+  * [The Fundamentals of OOP](https://samanbatool08.medium.com/the-fundamentals-of-oop-8079467adc79)
+  * [Object-Oriented Programming is just another concept!](https://medium.com/the-faculty/object-oriented-programming-is-just-another-concept-11c701830d0)
+  * [OOP Concepts for Facing Interviews with Confidence](https://javascript.plainenglish.io/oop-concepts-for-interviews-f1f0136a7d4)
 * Understands main concepts of FP/FRP
+  * [Understanding Functional Programming in Javascript — A Complete Guide](https://levelup.gitconnected.com/understanding-functional-programming-in-javascript-a-complete-guide-e85ed13b42c8)
+  * [Functional Reactive Programming explained in a simple way, in JavaScript…yes, in a simple way.](https://itnext.io/functional-reactive-programming-explained-in-a-simple-way-in-javascript-yes-in-a-simple-way-925b14cddf75)
+  * [Demystifying Functional Reactive Programming](https://itnext.io/demystifying-functional-reactive-programming-67767dbe520b)
+  * [Your Easy Guide to Functional Reactive Programming (FRP)](https://medium.com/@lettier/functional-reactive-programming-a0c7b08f6b67)
+  * [A quick introduction to Functional Reactive Programming (FRP)](https://www.freecodecamp.org/news/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f/)
 * Able to compare OOP/FP/FRP, mention pros/cons
+  * [FP, RP, FRP… What the F…](https://medium.com/@emadalam/fp-rp-frp-what-the-f-71c4949c29d)
+  * [OOP vs FP with Javascript](https://dev.to/bhaveshdaswani93/oop-vs-fp-with-javascript-39jf)
+  * [Functional Programming vs. Object Oriented Programming](https://medium.com/swlh/functional-programming-vs-object-oriented-programming-48eee6cf6830)
+  * [Functional Programming vs OOP](https://www.educba.com/functional-programming-vs-oop/)
   [comment]: <> (vaxo.sv)
 * OOP
   * Encapsulation
@@ -254,13 +272,10 @@ Intermediate understanding of:
   * [3 Phases of JavaScript Event](https://javascript.plainenglish.io/3-phases-of-javascript-event-2ff09aa76b03)
   * [Event Bubbling and Event Capturing in JavaScript](https://vsvaibhav2016.medium.com/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e)
   * [What is Event Bubbling and Event Capturing in JavaScript?](https://javascript.plainenglish.io/event-bubbling-and-capturing-in-javascript-661af681bb29)
-  * [11111111](1111111111)
-  * [11111111](1111111111)
 * document fragment
   * [DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
   * [Document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
   * [DOM Manipulation — Document Fragments and Stylesheets](https://blog.devgenius.io/dom-manipulation-document-fragments-and-stylesheets-b3c3db3fb5f0)
-  * [11111111](1111111111)
 
 
 ### Tools (NPM, Webpack, Chrome DevTools, ...)
@@ -469,6 +484,7 @@ Nice to have:
 Intermediate knowledge of patterns and best practices:
 
 * design patterns used on his project, and able to compare these patterns
+  * [JavaScript Design Patterns](https://betterprogramming.pub/javascript-design-patterns-25f0faaaa15)
 * KISS, DRY, YAGNI
 * The meaning behind SOLID principles.
   * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
