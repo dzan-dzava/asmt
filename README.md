@@ -5,6 +5,7 @@
 * **[Quality, ENGX](#Quality-ENGX)**
 * **[Software Development Process Knowledge](#Software-Development-Process-Knowledge)**
 * **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project-Leadership-Soft-Skills)**
+* **[Angular](#Angular)**
 * **[Shared Experience](#Shared-Experience)**
 
 <br>
@@ -519,6 +520,18 @@ Nice to have:
 Nice to have:
 
 * Able to provide examples of success stories in troubleshooting.
+
+<br>
+
+**[🡱 Back to Top 🡱](#Assessment)**
+
+<br>
+
+## Angular
+
+### Performance Optimization
+
+* [Angular Performance Optimization Techniques](https://medium.com/swlh/angular-performance-optimization-techniques-5b7ca0808f8b)
 
 <br>
 
