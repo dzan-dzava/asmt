@@ -394,10 +394,23 @@ Will be a plus (for JS and FE disciplines):
 
 * Back-End development (NodeJS, C#, Java, ...)
 * Clouds (AWS, GCP, Azure, ...)
+  * [What is AWS and What can you do with it](https://blog.usejournal.com/what-is-aws-and-what-can-you-do-with-it-395b585b03c)
+  * [AWS Fundamentals: Beginners Guide](https://medium.com/age-of-awareness/aws-fundamentals-beginners-guide-ffea402596fb)
+  * [Amazon Web Services (AWS) explained by operating a brewery](https://medium.com/free-code-camp/amazon-web-services-aws-explained-by-operating-a-brewery-8f1e91eacc40)
+  * [Introducing Amazon Web Services (AWS)](https://towardsaws.com/introducing-amazon-web-services-aws-72c12547b9ff)
 * Automated testing (E2E)
 * DevOps
+  *[What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
+  *[DevOps explained — Venture Capital perspective](https://medium.com/inside-inovo/devops-explained-venture-capital-perspective-156c5705e774)
+  *[What is Devops? | The complete guide to DevOps (With Examples)](https://medium.com/cuelogic-technologies/what-is-devops-the-complete-guide-to-devops-with-examples-13db789dd1c)
+  *[Finally! DevOps Explained](https://stevenpcurtis.medium.com/finally-devops-explained-25a855e3a0)
+  *[DevOps Fundamental For Absolute Beginners?](https://medium.com/the-programmer/devops-fundamental-for-absolute-beginners-1dde6fecf268)
+  *[What is DevOps? “In Simple English”](https://blog.usejournal.com/what-is-devops-in-simple-english-6550fbb129bd)
 * Mobile
 * Databases and Message queues
+  * [Message Queues in Database Transactions](https://medium.com/galvanize/message-queues-in-database-transactions-f830718f4f12)
+  * [Message Queues: Deep Dive](https://medium.com/hookdeck/message-queues-deep-dive-94592b0d9d3c)
+  * [Message Queues: RabbitMQ vs. Kafka](https://medium.com/@ramekris/message-queues-rabbitmq-vs-kafka-335076a5ff88)
 
 <br>
 
@@ -445,10 +458,23 @@ Intermediate knowledge of patterns and best practices:
 * KISS, DRY, YAGNI
 * The meaning behind SOLID principles.
   * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+  * [SOLID Principles : The Definitive Guide](https://medium.com/android-news/solid-principles-the-definitive-guide-75e30a284dea)
+  * [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+  * [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
+  * [SOLID Principles-simple and easy explanation](https://betterprogramming.pub/solid-principles-simple-and-easy-explanation-f57d86c47a7f)
+  * [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+  * [The SOLID Principles: a Guide for Object-Oriented Design](https://www.datascienceblog.net/post/programming/object-oriented-design-solid-principles/)
+  * [S.O.L.I.D. Principles: Simplified Explanation & Example](https://medium.com/tunaiku-tech/s-o-l-i-d-principles-simplified-explanation-example-f7268ca75758)
+  * [SOLID Principles — explained with examples](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
 
 Nice to have:
 
 * At least basic understanding of high cohesion, low coupling
+  * [Low Coupling, High Cohesion](https://medium.com/clarityhub/low-coupling-high-cohesion-3610e35ac4a6)
+  * [Cohesion and Coupling: the difference](https://enterprisecraftsmanship.com/posts/cohesion-coupling-difference/)
+  * [Difference Between Cohesion and Coupling](https://www.baeldung.com/cs/cohesion-vs-coupling)
+  * [Pure Functions: High Cohesion, Low Coupling](https://ammarmerakli.medium.com/pure-functions-high-cohesion-low-coupling-174b0a47ef24)
+  * [Coupling and cohesion in OOP](https://ducmanhphan.github.io/2019-03-23-Coupling-and-Cohension-in-OOP/)
 
 <br>
 
