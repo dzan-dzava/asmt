@@ -344,8 +344,38 @@ Basic understanding of:
 
 Basic understanding of:
 
+* Web Accessibility
+  * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+  * [Why Web Accessibility Is Important and How You Can Accomplish It](https://medium.com/fbdevclagos/why-web-accessibility-is-important-and-how-you-can-accomplish-it-4f59fda7859c)
+  * [Understanding Web Accessibility](https://medium.com/the-lair/understanding-web-accessibility-b8c443c7ae57)
+  * [Web accessibility explained](https://www.testingtime.com/en/blog/web-accessibility-explained/)
+  * [What is web accessibility?](https://uxdesign.cc/what-is-web-accessibility-they-asked-80a39a7ebe59)
+  * [Web Accessibility Explained](https://blog.jadu.net/blog/web-accessibility-explained)
+  * [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+  * [All You Need to Know About Web Accessibility](https://medium.com/swlh/all-we-need-to-know-about-web-accessibility-8d0957208f)
+  * [Web Accessibility Explained](https://medium.com/code-enigma/web-accessibility-explained-faa75bef5bec)
 * a11y specifications
+  * [a11y: The Path to Ensuring Web Accessibility](https://medium.com/priceline-labs/a11y-the-path-to-ensuring-web-accessibility-e3929c8ea2e3)
+  * [Accessibility (A11Y)](https://medium.com/front-end-weekly/accessibility-a11y-b4c6afcb5f)
+  * [Accessibility Statement](https://www.a11yproject.com/accessibility-statement/)
+  * [The A11Y Project Checklist](https://www.a11yproject.com/checklist/)
+  * [A11y Requirements](https://dojotoolkit.org/reference-guide/1.7/developer/a11y-requirements.html)
+  * [What is a11y?](https://www.boia.org/blog/what-is-a11y)
+  * [#FrontendSessions: Intro to Web Accessibility (a11y)](https://medium.com/clearscore/frontendsessions-intro-to-web-accessibility-a11y-e3b939265c77)
+  * [Websites & accessibility](https://medium.com/@devsociety_/websites-accessibility-969a435b1a9b)
+  * [a11y: The Path to Ensuring Web Accessibility](https://medium.com/priceline-labs/a11y-the-path-to-ensuring-web-accessibility-e3929c8ea2e3)
+  * [Mobile Accessibility (A11Y). What do you need to know to have a truly accessible application?](https://medium.com/software-testing-break-and-improve/mobile-accessibility-a11y-what-do-you-need-to-do-to-have-a-truly-accessible-application-784036b6d811)
+  * [Web Accessibility(A11y): Right to Web-Content Equality](https://medium.com/swlh/web-accessibility-a11y-right-to-web-content-equality-951bfd2ebdfb)
 * Semantic tags, their roles
+  * [What Is Semantic Markup and Why You Should Use It](https://medium.com/codex/what-is-semantic-markup-and-why-you-should-use-it-44777543c29c)
+  * [10+ HTML5 Semantic tags with examples.](https://medium.com/star-gazers/10-html5-semantic-tags-with-examples-4b6551888910)
+  * [The importance of Semantic HTML](https://medium.com/adalab/the-importance-of-semantic-html-78e74fb75ff0)
+  * [HTML/CSS: Semantic Web & Semantic Tags](https://medium.com/nerd-for-tech/html-css-semantic-web-semantic-tags-39dd582bb6b5)
+  * [What are HTML Semantic Tags and Why Should You Care?](https://blog.devgenius.io/what-are-html-semantic-tags-and-why-should-you-care-a0403972a217)
+  * [10 HTML Semantic Tags and When To Use Them](https://betterprogramming.pub/10-html-semantic-tags-and-when-to-use-them-5ae7d7d0b0f2)
+  * [What On Earth Is Semantic Markup? (And Why Should You Learn To Write It)](https://html.com/semantic-markup/)
+  * [Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/)
+  * [HTML5 Semantic Tags: What They Are and How to Use Them!](https://www.semrush.com/blog/semantic-html5-guide/)
 
 ### Frameworks and Tools
 
