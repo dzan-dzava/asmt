@@ -173,7 +173,13 @@ Nice to have:
 Intermediate knowledge and experience of performance optimizations:
 
 * JavaScript Profiling and Debugging
+  * [JavaScript Profiling With The Chrome Developer Tools](https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/)
+  * [Chrome DevTools: JavaScript CPU Profiling in Chrome 58](https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration)
 * Network Optimizations
+  * [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization)
+  * [How JavaScript Works: Inside the Networking Layer + How to Optimize Its Performance and Security](https://blog.sessionstack.com/how-javascript-works-inside-the-networking-layer-how-to-optimize-its-performance-and-security-f71b7414d34c)
+  * [Server-side rendering (SSR) with Angular Universal](https://angular.io/guide/universal)
+  * [Intro to Progressive Web Apps (PWAs) in Angular](https://alligator.io/angular/angular-pwa/)
 * JavaScript Performance Optimization Techniques
   * [20 Best Practices for Improving JavaScript Performance](https://www.keycdn.com/blog/javascript-performance)
   * [12 Tips for Improving JavaScript Performance](https://nodesource.com/blog/improve-javascript-performance/)
@@ -181,18 +187,39 @@ Intermediate knowledge and experience of performance optimizations:
   * [Website Performance Optimization: The Definitive Guide](https://towardsdev.com/website-performance-optimization-267b28b877df)
   * [Frontend Optimization: 8 Tips to Improve Web Performance](https://medium.com/@inverita/frontend-optimization-8-tips-to-improve-web-performance-29af4b00efe7)
 * Memory Leaks (detection tools and prevention)
+  * [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+  * [Understand and prevent the most common memory leaks in Angular application - Subscription unsubscribe](https://trungk18.com/experience/angular-common-memory-leak-use-case-observable/)
+  * [Understand and prevent the most common memory leaks in Angular application - Subscription unsubscribe](https://blog.bitsrc.io/debugging-memory-leaks-in-angular-4bc7b3eab569)
 * JavaScript Obfuscation and Minification
-* Framework optimization techniques (Angular, React, or others)
+  * [JavaScript Obfuscation: The Definitive Guide (2021)](https://blog.jscrambler.com/javascript-obfuscation-the-definitive-guide)
+  * [What is minification vs obfuscation?](https://grantwinney.com/minification-vs-obfuscation/)
+  * [What is minification in JavaScript?](https://www.cloudflare.com/en-gb/learning/performance/why-minify-javascript-code/)
+* Framework (Angular) optimization techniques
+  * [10 Tricks to Optimize Your Angular App](https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0)
+  * [Angular Performance Tuning: 15 Ways to Build Sophisticated Web Apps](https://www.simform.com/blog/angular-performance/)
 * Critical Rendering Path
+  * [Critical rendering path](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
+  * [Critical Render Path Optimisation — How To Increase Your Page Speed](https://medium.com/comparethemarket/critical-render-path-optimisation-how-to-increase-your-page-speed-820241a4552f)
+  * [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp)
+  * [angular performance: critical rendering path?](https://stackoverflow.com/questions/33825762/angular-performance-critical-rendering-path)
 * Repaint Reflow Understanding
+  * [Understanding Repaint and Reflow in JavaScript](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
 * RAIL
+  * [Response, Animation, Idle, and Load](https://developer.mozilla.org/en-US/docs/Glossary/RAIL)
+  * [Measure performance with the RAIL model](https://web.dev/rail/)
 * SVG vs canvas (with prior experience)
+  * [What is the difference between SVG and HTML5 Canvas?](https://www.tutorialspoint.com/What-is-the-difference-between-SVG-and-HTML5-Canvas)
+  * [When to Use SVG vs. When to Use Canvas](https://css-tricks.com/when-to-use-svg-vs-when-to-use-canvas/)
 
 ### Browser API
 
 Intermediate understanding of:
 
 * Browser API (Console, Fetch, Storage, History)
+  * [How To Use the JavaScript Developer Console](https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-developer-console)
+  * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+  * [Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+  * [Local Storage vs Session Storage vs Cookie](https://krishankantsinghal.medium.com/local-storage-vs-session-storage-vs-cookie-22655ff75a8)
   * [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
   * [6 Browser APIs You Need To Know As A Front End Developer](https://javascript.plainenglish.io/6-browser-apis-you-need-to-know-as-a-front-end-developer-76752633280b)
   * [Understanding Browser APIs](https://javascript.plainenglish.io/understanding-browser-apis-83a570a62840)
@@ -208,13 +235,30 @@ Intermediate understanding of:
   * [Understanding Browser Object Model (BOM) in JavaScript](https://morioh.com/p/ce7c8fd03b0b)
   * [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
   * [CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/)
+  * [The Browser Object Model](https://itwebtutorials.mga.edu/js/chp1/browser-object-model.aspx)
+  * [Browser Object Model](https://www.javatpoint.com/browser-object-model)
+* event delegation
+  * [A Simple Explanation of Event Delegation in JavaScript](https://dmitripavlutin.com/javascript-event-delegation/)
+* event bubbling, event capturing
+  * [Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+* document fragment
+  * [DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
+  * [Document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
+
 
 ### Tools (NPM, Webpack, Chrome DevTools, ...)
 
 * Intermediate knowledge of build tools (webpack / rollup / gulp)
+  * [Choosing a JavaScript build tool: to config or not config](https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8)
 * Advanced knowledge of package managers (NPM, Yarn, package.json configuration, lock files)
+  * [What is npm?](https://www.w3schools.com/whatis/whatis_npm.asp)
+  * [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
+  * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
 * Advanced knowledge of browser tools for project needs (Chrome DevTools).
+  * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 * Module system (require, JS modules, import)
+  * [Difference between node.js require and ES6 import and export](https://www.geeksforgeeks.org/difference-between-node-js-require-and-es6-import-and-export/)
+  * [Differences Between Require and Import](https://www.educba.com/require-vs-import/)
 
 ### CSS Fundamentals
 
