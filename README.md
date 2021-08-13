@@ -47,6 +47,7 @@ At least Intermediate level:
 * Has Advanced knowledge of OOP
 * Understands main concepts of FP/FRP
 * Able to compare OOP/FP/FRP, mention pros/cons
+  [comment]: <> (vaxo.sv)
 * OOP
   * Encapsulation
     * [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
@@ -277,8 +278,10 @@ Advanced knowledge of:
   * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### CSS Preprocessors
-
-*  Intermediate knowledge of at least one CSS pre-/post-processor (LESS, SASS/SCSS, Stylus, PostCSS)
+[comment]: <> (vaxo.sv)
+* Intermediate knowledge of at least one CSS pre-/post-processor (LESS, SASS/SCSS, Stylus, PostCSS)
+* LESS, SASS/SCSS, Stylus
+* PostCSS
 
 ### CSS Methodologies
 
@@ -297,16 +300,17 @@ Nice to have:
 
 Basic understanding of:
 
+[comment]: <> (vaxo.sv)
 * Responsive vs Adaptive design, Mobile First approach, Desktop First
 * Progressive Enhancement vs Graceful Degradation approaches
 
 ### Web Animations
-
+[comment]: <> (vaxo.sv)
 * Able to implement animations via CSS and JS
 * Intermediate understanding pros/cons of animation via CSS or JS
 
 ### SPA vs MPA
-
+[comment]: <> (vaxo.sv)
 * Intermediate understanding what are SPA and MPA applications, their pros/cons
 * At least basic understanding of SSR
 
