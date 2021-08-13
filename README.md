@@ -286,6 +286,10 @@ Advanced knowledge of:
 ### CSS Methodologies
 
 * Intermediate knowledge of at least some CSS methodologies (BEM, OOCSS, SMACSS, ITCSS, Atomic CSS)
+  * [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/)
+  * [5 Methodologies for Architecting CSS](https://valoremreply.com/post/5_css_methodologies/)
+  * [CSS with BEM](https://en.bem.info/methodology/css/)
+  * [BEM Methodology for CSS](https://medium.com/@mckenziefiege/bem-methodology-for-css-c2595383d60a)
 
 ### CSS Frameworks
 
