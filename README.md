@@ -280,8 +280,16 @@ Advanced knowledge of:
 ### CSS Preprocessors
 [comment]: <> (vaxo.sv)
 * Intermediate knowledge of at least one CSS pre-/post-processor (LESS, SASS/SCSS, Stylus, PostCSS)
+  * [Popular CSS Preprocessors With Examples: Sass, Less & Stylus](https://raygun.com/blog/css-preprocessors-examples/)
+  * [CSS Preprocessors: What? Why?…How?!](https://medium.com/@sedwardscode/css-preprocessors-what-why-how-7bc5a7a564de)
+  * [An Introduction to CSS Pre-Processors: SASS, LESS and Stylus](https://medium.com/@itIsMadhavan/an-introduction-to-css-pre-processors-sass-less-and-stylus-1f45178ff5ba)
 * LESS, SASS/SCSS, Stylus
+  * [The Absolute Beginner’s Guide to Sass](https://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass)
+  * [What is Sass? Your guide to this top CSS preprocessor](https://www.creativebloq.com/web-design/what-is-sass-111517618)
+  * [5 Reasons Why Stylus is the Best CSS Preprocessor](https://levelup.gitconnected.com/5-reasons-why-stylus-is-the-best-css-preprocessor-in-2020-6957e8ae8577)
 * PostCSS
+  * [The Complete Guide to PostCSS](https://www.toptal.com/front-end/postcss-sass-new-play-date)
+  * [Getting started with PostCSS](https://blog.logrocket.com/getting-started-with-postcss-in-2019-484262a4d725/)
 
 ### CSS Methodologies
 
