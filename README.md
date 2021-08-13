@@ -277,7 +277,6 @@ Intermediate understanding of:
   * [Document.createDocumentFragment()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment)
   * [DOM Manipulation — Document Fragments and Stylesheets](https://blog.devgenius.io/dom-manipulation-document-fragments-and-stylesheets-b3c3db3fb5f0)
 
-
 ### Tools (NPM, Webpack, Chrome DevTools, ...)
 
 * Intermediate knowledge of build tools (webpack / rollup / gulp)
@@ -351,7 +350,20 @@ Basic understanding of:
 
 [comment]: <> (vaxo.sv)
 * Responsive vs Adaptive design, Mobile First approach, Desktop First
+  * [What is Mobile First Design? Why It’s Important & How To Make It?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
+  * [How to Take the Right Approach to Responsive Web Design](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/)
+  * [UNDERSTANDING THE DIFFERENCE BETWEEN MOBILE-FIRST, ADAPTIVE AND RESPONSIVE DESIGN](https://fredericgonzalo.com/en/2017/03/01/understanding-the-difference-between-mobile-first-adaptive-and-responsive-design/)
+  * [Mobile First, Desktop Worst](https://blog.prototypr.io/mobile-first-desktop-worst-f900909ae9e2)
+  * [Adaptive vs. Responsive Design](https://rikke-friis-dam.medium.com/adaptive-vs-responsive-design-a6c23000c367)
+  * [Fluid vs. Adaptive vs. Responsive Design](https://popart-studio.medium.com/fluid-vs-adaptive-vs-responsive-design-62de51e036bd)
+  * [Adaptive vs. Responsive Design. What Is The Difference And Which One Is Better?](https://medium.com/@ossmiumteam/adaptive-vs-responsive-design-what-is-the-difference-and-which-one-is-better-ad1ded47b7be)
+  * [Mobile-First, Adaptive, or Responsive Design: Which to Choose for the Website so Customers Want to Buy Your Product or Service?](https://codeburst.io/mobile-first-adaptive-or-responsive-design-which-to-choose-for-the-website-so-customers-want-to-aafc86443222)
+  * [Don’t Debate Responsive VS Adaptive Design.](https://medium.com/wayfair-design/dont-debate-responsive-vs-adaptive-design-8cdd53660c9c)
+  * [Responsive Design vs. Adaptive Design: What’s the Best Choice for Designers?](https://www.uxpin.com/studio/blog/responsive-vs-adaptive-design-whats-best-choice-designers/)
 * Progressive Enhancement vs Graceful Degradation approaches
+  * [Define Graceful Degradation & Progressive Enhancement](https://medium.com/@julienetienne/define-graceful-degradation-progressive-enhancement-faf242a8ed51)
+  * [Progressive Enhancement vs Graceful Degradation](https://www.mavenecommerce.com/2017/10/31/progressive-enhancement-vs-graceful-degradation/)
+  * [Progressive Enhancement and Graceful Degradation: Making a Choice](https://www.sitepoint.com/progressive-enhancement-graceful-degradation-choice/)
 
 ### Web Animations
 [comment]: <> (vaxo.sv)
