@@ -304,11 +304,19 @@ Advanced knowledge of:
 Nice to have:
 
 * Basic knowledge of any CSS framework
+  * [A Beginner’s Guide to CSS Front End Frameworks](https://blog.zipboard.co/a-beginners-guide-to-css-front-end-frameworks-8045a499456b)
+  * [What is a CSS Framework?](https://medium.com/html-all-the-things/what-is-a-css-framework-f758ef0b1a11)
+  * [14 Best CSS Frameworks for Front-End Developers](https://geekflare.com/best-css-frameworks/)
 
 ### Responsive design
 
 * Intermediate knowledge of CSS media queries
+  * [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/#top-of-site)
+  * [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+  * [How To Use CSS Media Queries For Responsive Design?](https://www.lambdatest.com/blog/css-media-queries-for-responsive-design/)
 * Able to build responsive web pages
+  * [Responsive Web Design - What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+  * [Responsive Web Design and Mobile First](https://betterprogramming.pub/responsive-web-design-and-mobile-first-5-basic-techniques-d89329f3e733)
 
 Basic understanding of:
 
