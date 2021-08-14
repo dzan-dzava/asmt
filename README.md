@@ -506,7 +506,15 @@ Intermediate knowledge of patterns and best practices:
 
 * design patterns used on his project, and able to compare these patterns
   * [JavaScript Design Patterns](https://betterprogramming.pub/javascript-design-patterns-25f0faaaa15)
+  * [Clean code Principles and Software Engineering Principles](https://medium.com/the-glitcher/clean-code-principles-and-software-engineering-principles-651cdcd67fcd)
 * KISS, DRY, YAGNI
+  * [KISS, SOLID, YAGNI And Other Fun Acronyms](https://blog.bitsrc.io/kiss-solid-yagni-and-other-fun-acronyms-b5d207530335)
+  * [YAGNI and DRY — the KISS of Death for Your Software Project](https://medium.com/swlh/yagni-and-dry-the-kiss-of-death-for-your-software-project-cfd44b0654b6)
+  * [KISS, DRY, YAGNI and More. The 7 Acronyms Every Developer Should Know](https://thefullstack.xyz/dry-yagni-kiss-tdd-soc-bdfu)
+  * [10 Coding principles and acronyms demystified!](https://areknawo.com/10-coding-principles-and-acronyms-demystified/)
+  * [DRY, KISS & YAGNI Principles](https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f)
+  * [KISS YAGNI & DRY Principles](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
+  * [How to become a better programmer ?](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
 * The meaning behind SOLID principles.
   * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
   * [SOLID Principles : The Definitive Guide](https://medium.com/android-news/solid-principles-the-definitive-guide-75e30a284dea)
