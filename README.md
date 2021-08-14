@@ -18,6 +18,15 @@
 * JS Core at Advanced level (Intermediate for Front-End discipline)
   * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 * Knowing the pros and cons of using TypeScript/Flow on the project
+  * [Why use TypeScript, good and bad reasons](https://itnext.io/why-use-typescript-good-and-bad-reasons-ccd807b292fb)
+  * [Why TypeScript is the best way to write Front-end in 2019–2020+](https://jackthenomad.com/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164)
+  * [TypeScript vs JavaScript – the state of the struggle in 2021](https://tsh.io/blog/typescript-vs-javascript-comparison/)
+  * [What Is TypeScript? Pros and Cons of TypeScript vs. JavaScript](https://www.stxnext.com/blog/typescript-pros-cons-javascript/)
+  * [pros and cons of using typescript in your web projects](https://www.wakefly.com/blog/pros-cons-using-typescript-web-projects/)
+  * [TypeScript: pros and cons](https://medium.com/@auxx/typescript-pros-and-cons-873529634099)
+  * [Is TypeScript the future of JavaScript?](https://medium.com/geekculture/is-typescript-the-future-of-javascript-f121aa875464)
+  * [What is TypeScript? Pros and Cons](https://medium.com/@BuildMySite1/what-is-typescript-pros-and-cons-8dc5cdc3e78d)
+  * [Pros and cons of TypeScript — Alex Kubica](https://medium.com/@alexkubica/pros-and-cons-of-typescript-alex-kubica-55ecfe0f1b80)
 * Intermediate level of HTML, CSS
 * Has at least one skill at Advanced or Expert level in UPSA profile related to a candidate's primary technology stack
 
