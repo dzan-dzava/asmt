@@ -21,6 +21,9 @@
   * [12 JavaScript Concepts That Will Level Up Your Development Skills](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)
   * [6 Advanced JavaScript Concepts You Should Know](https://www.webfx.com/blog/web-design/6-advanced-javascript-techniques-you-should-know/)
   * [20 JavaScript Concepts you should know as a JavaScript Programmer!](https://medium.com/a-dev-guru/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e)
+  * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+  * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+  * [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 * Knowing the pros and cons of using TypeScript/Flow on the project
   * [Why use TypeScript, good and bad reasons](https://itnext.io/why-use-typescript-good-and-bad-reasons-ccd807b292fb)
   * [Why TypeScript is the best way to write Front-end in 2019–2020+](https://jackthenomad.com/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164)
@@ -392,7 +395,25 @@ Basic understanding of:
 ### SPA vs MPA
 [comment]: <> (vaxo.sv)
 * Intermediate understanding what are SPA and MPA applications, their pros/cons
+  * [Single-page application vs. multiple-page application](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
+  * [How Single-Page Applications Work](https://blog.pshrmn.com/how-single-page-applications-work/)
+  * [Everything you need to know about “Single-page-application”](https://shifat-jaman.medium.com/single-page-application-everything-you-need-to-know-6f00d87e5130)
+  * [Pros and Cons Between Single Page and Multi-Page Apps](https://andrewly.medium.com/pros-and-cons-between-single-page-and-multi-page-apps-8f4b26acd9c9)
+  * [Single Page Application (SPA) vs Multi Page Application (MPA) – Two Development Approaches](https://asperbrothers.com/blog/spa-vs-mpa/)
+  * [Single-Page Applications vs Multi-Page Applications: The Battle of the Web Apps](https://themindstudios.com/blog/spa-vs-mpa/)
+  * [SPA vs MPA: The definitive guide for decision makers](https://www.mindk.com/blog/single-page-applications-the-definitive-guide/)
+  * [Single-page application: how SPA works and how it differs from MPA](https://kissdigital.com/blog/single-page-application-how-spa-works-and-how-it-differs-from-mpa)
+  * [Which and when to use: SPA vs MPA](https://jaxenter.com/spa-vs-mpa-160963.html)
+  * [MPA vs SPA: How to Choose Between Traditional Web Apps and Single Page Applications](https://hygger.io/blog/mpa-vs-spa-traditional-web-apps-or-single-page-applications/)
+  * [Single-page App vs. Multi-page App: Pros, Cons, and Which is Better?](https://lvivity.com/single-page-app-vs-multi-page-app)
+  * [SPA vs MPA: Which One is Better For You?](https://yojji.io/blog/spa-vs-mpa)
+  * [Multi-page, Single-page, or a Hybrid?](https://medium.com/swlh/spa-mpa-or-a-hybrid-42fdf6b3415c)
 * At least basic understanding of SSR
+  * [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
+  * [The Benefits of Server Side Rendering Over Client Side Rendering](https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
+  * [Angular Universal & Server-side rendering Deep-Dive](https://medium.com/@MarkPieszak/angular-universal-server-side-rendering-deep-dive-dc442a6be7b7)
+  * [Angular Universal: Server-Side Rendering and Pre-Rendering for Angular 9+ Applications](https://medium.com/dvt-engineering/angular-universal-server-side-rendering-and-pre-rendering-for-angular-9-applications-f311e8f545bb)
+  * [Server Side Rendering (SSR) in Angular](https://medium.com/oceanize-geeks/server-side-rendering-ssr-in-angular-e31d75f7b1d0)
 
 ### Web Accessibility
 
