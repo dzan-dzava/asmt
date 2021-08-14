@@ -17,6 +17,10 @@
 
 * JS Core at Advanced level (Intermediate for Front-End discipline)
   * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+  * [15 JavaScript concepts that every JavaScript Programmer must know.](https://madasamy.medium.com/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7)
+  * [12 JavaScript Concepts That Will Level Up Your Development Skills](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)
+  * [6 Advanced JavaScript Concepts You Should Know](https://www.webfx.com/blog/web-design/6-advanced-javascript-techniques-you-should-know/)
+  * [20 JavaScript Concepts you should know as a JavaScript Programmer!](https://medium.com/a-dev-guru/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e)
 * Knowing the pros and cons of using TypeScript/Flow on the project
   * [Why use TypeScript, good and bad reasons](https://itnext.io/why-use-typescript-good-and-bad-reasons-ccd807b292fb)
   * [Why TypeScript is the best way to write Front-end in 2019–2020+](https://jackthenomad.com/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164)
