@@ -778,6 +778,7 @@ Nice to have:
 * What is dom/cssom, how is render tree constructed (general overview)
 * What is a critical rendering path and why is it important to keep it short? What's the difference between having javascript in html async or deferred?
 * What is layout thrashing and how can you avoid it?
+  * [Beware JavaScript Layout Thrashing!](https://blog.idrsolutions.com/2014/08/beware-javascript-layout-thrashing/)
 * What's the difference between hot and cold observables?
 * Which project management framework is used on your current project? What's the difference between agile, waterfall, kanban? What kinds of projects can benefit from each?
 * What techniques of storypoint estimation do you know in agile? (planning poker, tshirt sizes, etc). What is the benefit of having storypoint estimation instead of time estimations? How do you estimate tasks that are not familiar and you're not sure how it should be implemented?
@@ -789,7 +790,9 @@ Nice to have:
 * What happens between ng serve and viewing the page on your screen?
 * Good to know: JIT and AOT, which is better and why?
 * What is behavioral testing and functional testing? What is whitebox/blackbox testing? What kind of tests are usually written? (unit, integration, E2E. differences, + describe the test pyramid)
+  * [Differences between Black Box Testing vs White Box Testing](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/#:~:text=White%20Box%20Testing%3A-,Black%20Box%20Testing,the%20program%20of%20the%20software.) 
 * General question: What would you change about javascript if you could?
+  * [What would you change about JavaScript if you could?](https://news.ycombinator.com/item?id=15197291)
 * Accessibility - for example, you have a form with two inputs and a button, what's the minimum accessibility you should take care of? (labels, using html tags like <button> instead of divs, etc)
 * How would you explain closures to someone?
 * How would you manage a team where it's only you and junior developers? How do you make sure the work is getting done?
