@@ -623,9 +623,12 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 * Centralized workflow
 * Feature branch workflow
 * Gitflow workflow
+  * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * Forking workflow
 * Trunk-based workflow
+  * [An Introduction to Trunk-Based Development](https://launchdarkly.com/blog/introduction-to-trunk-based-development/)
 
+* [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * git
   * [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
   * [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
