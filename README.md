@@ -792,18 +792,29 @@ Nice to have:
 * Talk about security issues, OWASP top 10 (be able to list at least part), how can you test/fix them.
 * What are nonfunctional requirements in a project? What do you do to implement them? [security, code quality, etc. quality gates, sonar.]
 * What is event loop in javascript? How do async events work in it? What are micro and macrotask queues?
+  * [Concurrency model and the event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+  * [A practical guide to macro tasks, micro tasks and queueMicrotask in JavaScript](https://medium.com/swlh/a-practical-guide-to-macro-tasks-micro-tasks-and-queuemicrotask-in-javascript-ca65c393699e)
+  * [Understanding setTimeout()](https://levelup.gitconnected.com/understanding-settimeout-15c7de9e5fd6)
+  * [Better Understanding of Timers in JavaScript: SetTimeout vs RequestAnimationFrame](https://javascript.plainenglish.io/better-understanding-of-timers-in-javascript-settimeout-vs-requestanimationframe-bf7f99b9ff9b)
 * What is dom/cssom, how is render tree constructed (general overview)
 * What is a critical rendering path and why is it important to keep it short? What's the difference between having javascript in html async or deferred?
+  * [Critical rendering path](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
+  * [Asynchronous vs Deferred JavaScript](https://bitsofco.de/async-vs-defer/)
+  * [<script> async, defer, async defer, module, nomodule, src, inline - the cheat sheet](https://gist.github.com/jakub-g/385ee6b41085303a53ad92c7c8afd7a6)
 * What is layout thrashing and how can you avoid it?
   * [Beware JavaScript Layout Thrashing!](https://blog.idrsolutions.com/2014/08/beware-javascript-layout-thrashing/)
 * What's the difference between hot and cold observables?
 * Which project management framework is used on your current project? What's the difference between agile, waterfall, kanban? What kinds of projects can benefit from each?
 * What techniques of storypoint estimation do you know in agile? (planning poker, tshirt sizes, etc). What is the benefit of having storypoint estimation instead of time estimations? How do you estimate tasks that are not familiar and you're not sure how it should be implemented?
 * What is ci/cd? why is it important?
+  * 
 * Change detection in angular. What is zone.js used for? What are different change detection strategies? + lifecycle hooks in angular
 * Dependency injection in angular. Why is it convenient, how does it work (general overview)
 * What is loose coupling/tight coupling (OOP), why is loose coupling important. OOP stuff like SOLID.
+  * [The Difference Between Tight Coupling and Loose Coupling](https://nordicapis.com/the-difference-between-tight-coupling-and-loose-coupling/)
+  * [What is Loose Coupling & Why Does it Matter for Your New Project?](https://www.brainspire.com/blog/what-is-loose-coupling-why-does-it-matter-for-your-new-project)
 * What happens between writing url in the browser and hitting enter, until viewing the page on your screen?
+  * [What Happens When You Type in a URL](https://wsvincent.com/what-happens-when-url/#:~:text=You%20enter%20a%20URL%20into,sends%20back%20a%20HTTP%20response)
 * What happens between ng serve and viewing the page on your screen?
 * Good to know: JIT and AOT, which is better and why?
 * What is behavioral testing and functional testing? What is whitebox/blackbox testing? What kind of tests are usually written? (unit, integration, E2E. differences, + describe the test pyramid)
@@ -811,6 +822,7 @@ Nice to have:
   * [What would you change about JavaScript if you could?](https://news.ycombinator.com/item?id=15197291)
 * Accessibility - for example, you have a form with two inputs and a button, what's the minimum accessibility you should take care of? (labels, using html tags like <button> instead of divs, etc)
 * How would you explain closures to someone?
+  * [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 * How would you manage a team where it's only you and junior developers? How do you make sure the work is getting done?
 * What is code quality, how do you ensure it, why are code reviews important and how do you do them, what do you pay attention to, etc.
 * async/await, generator functions, promises, observables.
