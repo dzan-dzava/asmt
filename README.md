@@ -588,6 +588,7 @@ Nice to have:
 * Experience in code review process as reviewer
 
 ### Automated Testing (TDD, Test Pyramid)
+* [Differences between Black Box Testing vs White Box Testing](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/#:~:text=White%20Box%20Testing%3A-,Black%20Box%20Testing,the%20program%20of%20the%20software.)
 
 Intermediate knowledge of:
 
@@ -803,7 +804,6 @@ Nice to have:
 * What happens between ng serve and viewing the page on your screen?
 * Good to know: JIT and AOT, which is better and why?
 * What is behavioral testing and functional testing? What is whitebox/blackbox testing? What kind of tests are usually written? (unit, integration, E2E. differences, + describe the test pyramid)
-  * [Differences between Black Box Testing vs White Box Testing](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/#:~:text=White%20Box%20Testing%3A-,Black%20Box%20Testing,the%20program%20of%20the%20software.) 
 * General question: What would you change about javascript if you could?
   * [What would you change about JavaScript if you could?](https://news.ycombinator.com/item?id=15197291)
 * Accessibility - for example, you have a form with two inputs and a button, what's the minimum accessibility you should take care of? (labels, using html tags like <button> instead of divs, etc)
