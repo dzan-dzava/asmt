@@ -540,6 +540,7 @@ Intermediate knowledge of patterns and best practices:
   * [KISS YAGNI & DRY Principles](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
   * [How to become a better programmer ?](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
 * The meaning behind SOLID principles.
+  * [Software Design - Introduction to SOLID Principles in 8 Minutes](https://www.youtube.com/watch?v=yxf2spbpTSw) 
   * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
   * [SOLID Principles : The Definitive Guide](https://medium.com/android-news/solid-principles-the-definitive-guide-75e30a284dea)
   * [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
