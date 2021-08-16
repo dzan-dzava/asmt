@@ -659,9 +659,16 @@ Nice to have:
 Intermediate knowledge of:
 
 * estimation notions (absolute vs relative units, short vs long term, small vs big team)
+  * [Absolute Estimation VS Relative Estimation](https://medium.com/@nasreddine.skandrani/absolute-estimation-vs-relative-estimation-be31c14c58aa)
+  * [Short & Long Term Estimation as a Product Manager](https://medium.com/@jmcartwright6/short-long-term-estimation-as-a-product-manager-c5b7af445347)
 * estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points, three-point)
+  * [8 Agile Estimation Techniques to Try With your Team](https://www.parabol.co/blog/agile-estimation-techniques)
 * how to solve under-/over- estimation problems for their tasks
+  * [Sprint estimation: Under vs. Over](https://internetdevels.com/blog/sprint-estimation-under-vs-over) 
+  * [12 Secrets to Overcoming Software Estimation Challenges](https://www.macadamian.com/learn/12-secrets-to-overcoming-software-estimation-challenges/) 
 * how to estimate unknown tasks
+  * [Agile project management: Estimating the unknown](https://www.techrepublic.com/blog/tech-decision-maker/agile-project-management-estimating-the-unknown/)
+  * [How to estimate a programming task if you have no experience in it [closed]](https://stackoverflow.com/questions/425044/how-to-estimate-a-programming-task-if-you-have-no-experience-in-it) 
 
 Nice to have:
 
