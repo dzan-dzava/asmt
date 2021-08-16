@@ -799,8 +799,13 @@ Nice to have:
 * [Understanding hot vs cold Observables](https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03)
 * [Understanding rxjs Subjects](https://luukgruijs.medium.com/understanding-rxjs-subjects-339428a1815b)
 * [RxJS Observables versus Subjects](https://coryrylan.com/blog/rxjs-observables-versus-subjects)
+* [RxJS Best Practices](https://betterprogramming.pub/rxjs-best-practices-7f559d811514)
+* [Must Know RxJS Interview Questions](https://www.techgeeknext.com/angular/angular-interview-questions)
+* [RxJS Interview Questions](https://www.javatpoint.com/rxjs-interview-questions)
+* [Most frequently asked RxJS Interview Questions](https://www.codeusingjava.com/interview/rxjs)
+* [Comprehensive Guide to Higher-Order RxJs Mapping Operators: switchMap, mergeMap, concatMap (and exhaustMap)](https://blog.angular-university.io/rxjs-higher-order-mapping/)
 
-* <br>
+<br>
 
 **[🡱 Back to Top 🡱](#Assessment)**
 
