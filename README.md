@@ -514,6 +514,11 @@ Will be a plus (for JS and FE disciplines):
 * Clarify task details
 * Plays active part in the process of task decomposition and planning
 * Understanding of what DoD/DoR is
+  * [What are DoD and DoR in Scrum?](https://orgler.medium.com/what-are-dod-and-dor-in-scrum-14894e0b3d0d)
+  * [Definition of Ready (DoR) vs. Definition of Done (DoD)](https://www.linkedin.com/pulse/definition-ready-dor-vs-done-dod-brian-will/)
+  * [Definition of done, ready — and security](https://medium.com/@gaurav.bhorkar/dod-dor-and-security-aff3ab1c4728)
+  * [Definition of ‘Done'(DoD) Vs Definition of ‘Ready'(DoR)](https://premieragile.com/definition-of-done-vs-definition-of-ready/)
+  * [Definition of Ready (DoR) and Definition Done (DoD) in Scrum](https://www.leanagilecouncil.org/definition-of-ready-dor-and-definition-done-dod-in-scrum/)
 
 ### Documentation, Guidelines, Style Guides
 
@@ -608,6 +613,16 @@ Nice to have:
 Intermediate understanding of:
 
 * Continuous Integration, Continuous Delivery, Continuous Deployment
+  * [CI/CD pipelines explained: Everything you need to know](https://searchsoftwarequality.techtarget.com/CI-CD-pipelines-explained-Everything-you-need-to-know)
+  * [CI/CD Pipeline: Explained in Detail](https://www.opsmx.com/blog/what-is-a-ci-cd-pipeline/)
+  * [CI/CD: Continuous Integration & Delivery Explained](https://semaphoreci.com/cicd)
+  * [What is CI/CD? CI/CD Pipeline an Tools Explained](https://snyk.io/learn/what-is-ci-cd-pipeline-and-tools-explained/)
+  * [What is CICD — Concepts in Continuous Integration and Deployment](https://medium.com/@nirespire/what-is-cicd-concepts-in-continuous-integration-and-deployment-4fe3f6625007)
+  * [What is CI/CD Pipeline?](https://nanduribalajee.medium.com/what-is-ci-cd-pipeline-e2f25db99bbe)
+  * [What is CI/CD Pipeline in DevOps?](https://faun.pub/what-is-ci-cd-pipeline-in-devops-6fba17a76e73)
+  * [What is a CI/CD pipeline?](https://faun.pub/what-is-a-ci-cd-pipeline-a8647890ebad)
+  * [What The Heck Is Continuous Integration (CI), Delivery (CD), And Deployment (CDP)? — Codefresh](https://medium.com/containers-101/what-the-heck-is-continuous-integration-ci-delivery-cd-and-deployment-cdp-codefresh-bc0ba3b46eec)
+  * [CI/CD Simply Explained!](https://niroshanratnayake.medium.com/ci-cd-simply-explained-9beeddbfe6de)
 * their differences
 
 Nice to have:
@@ -632,6 +647,13 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 * git
   * [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
   * [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
+  * [Top Git Interview Questions You Need To Prepare In 2021](https://www.edureka.co/blog/interview-questions/git-interview-questions/)
+  * [Top 45 GIT Interview Questions & Answers (2021 Update)](https://career.guru99.com/top-40-interview-questions-on-git/)
+  * [13 Essential Git Interview Questions](https://www.toptal.com/git/interview-questions)
+  * [11 Painful Git Interview Questions and Answers You Will Cry On](https://www.codementor.io/@alexershov/11-painful-git-interview-questions-and-answers-you-will-cry-on-lybbrqhvs)
+  * [Top 40 GIT Interview Questions And Answers In 2021](https://www.softwaretestinghelp.com/git-interview-questions/)
+  * [30+ Commonly Asked GIT Interview Questions (2021)](https://www.interviewbit.com/git-interview-questions/)
+  * [Top 30 Git Interview Questions and Answers](https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions)
 <br>
 
 **[🡱 Back to Top 🡱](#Assessment)**
