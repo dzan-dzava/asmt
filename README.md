@@ -769,8 +769,12 @@ Nice to have:
 <br>
 
 ## RxJS
+* [Most frequently asked RxJS Interview Questions](https://www.codeusingjava.com/interview/rxjs)
+* [Understanding hot vs cold Observables](https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03)
+* [Understanding rxjs Subjects](https://luukgruijs.medium.com/understanding-rxjs-subjects-339428a1815b)
+* [RxJS Observables versus Subjects](https://coryrylan.com/blog/rxjs-observables-versus-subjects)
 
-<br>
+* <br>
 
 **[🡱 Back to Top 🡱](#Assessment)**
 
