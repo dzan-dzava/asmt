@@ -82,7 +82,6 @@ At least Intermediate level:
   * [OOP vs FP with Javascript](https://dev.to/bhaveshdaswani93/oop-vs-fp-with-javascript-39jf)
   * [Functional Programming vs. Object Oriented Programming](https://medium.com/swlh/functional-programming-vs-object-oriented-programming-48eee6cf6830)
   * [Functional Programming vs OOP](https://www.educba.com/functional-programming-vs-oop/)
-  [comment]: <> (vaxo.sv)
 * OOP
   * Encapsulation
     * [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
@@ -323,7 +322,6 @@ Advanced knowledge of:
   * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### CSS Preprocessors
-[comment]: <> (vaxo.sv)
 * Intermediate knowledge of at least one CSS pre-/post-processor (LESS, SASS/SCSS, Stylus, PostCSS)
   * [Popular CSS Preprocessors With Examples: Sass, Less & Stylus](https://raygun.com/blog/css-preprocessors-examples/)
   * [CSS Preprocessors: What? Why?…How?!](https://medium.com/@sedwardscode/css-preprocessors-what-why-how-7bc5a7a564de)
@@ -364,8 +362,6 @@ Nice to have:
   * [Responsive Web Design and Mobile First](https://betterprogramming.pub/responsive-web-design-and-mobile-first-5-basic-techniques-d89329f3e733)
 
 Basic understanding of:
-
-[comment]: <> (vaxo.sv)
 * Responsive vs Adaptive design, Mobile First approach, Desktop First
   * [What is Mobile First Design? Why It’s Important & How To Make It?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
   * [How to Take the Right Approach to Responsive Web Design](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/)
@@ -383,7 +379,6 @@ Basic understanding of:
   * [Progressive Enhancement and Graceful Degradation: Making a Choice](https://www.sitepoint.com/progressive-enhancement-graceful-degradation-choice/)
 
 ### Web Animations
-[comment]: <> (vaxo.sv)
 * Able to implement animations via CSS and JS
 * Intermediate understanding pros/cons of animation via CSS or JS
   * [CSS Versus JavaScript Animations](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript)
@@ -394,7 +389,6 @@ Basic understanding of:
   * [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
 
 ### SPA vs MPA
-[comment]: <> (vaxo.sv)
 * Intermediate understanding what are SPA and MPA applications, their pros/cons
   * [Single-page application vs. multiple-page application](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
   * [How Single-Page Applications Work](https://blog.pshrmn.com/how-single-page-applications-work/)
@@ -462,7 +456,12 @@ Advanced level of at least one:
 At least basic understanding of:
 
 * pros and cons of one more CMS / JS framework / CSS framework from the primary stack
+  * [Pros and cons of HTML and CSS frameworks](https://blog.alexdevero.com/pros-and-cons-of-html-and-css-frameworks/)
+  * [Does your web app need a front-end framework?](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/)
 * different approaches how to organize modularity, state management and code reuse on the project
+  * [What Does Modular Architecture in Angular Even Mean?](https://www.dottedsquirrel.com/modular-architecture-angular/)
+  * [State management options in Angular](https://medium.com/swlh/state-management-options-in-angular-8dcd61baf74d)
+  * [Code Reuse in Angular with Object Composition & Inheritance](https://medium.com/cp-massive-programming/code-reuse-in-angular-with-object-composition-inheritance-c7194631e522)
 
 ### T-Shape Skills
 
@@ -542,6 +541,7 @@ Intermediate knowledge of patterns and best practices:
   * [KISS YAGNI & DRY Principles](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
   * [How to become a better programmer ?](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
 * The meaning behind SOLID principles.
+  * [Software Design - Introduction to SOLID Principles in 8 Minutes](https://www.youtube.com/watch?v=yxf2spbpTSw) 
   * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
   * [SOLID Principles : The Definitive Guide](https://medium.com/android-news/solid-principles-the-definitive-guide-75e30a284dea)
   * [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
@@ -660,9 +660,16 @@ Nice to have:
 Intermediate knowledge of:
 
 * estimation notions (absolute vs relative units, short vs long term, small vs big team)
+  * [Absolute Estimation VS Relative Estimation](https://medium.com/@nasreddine.skandrani/absolute-estimation-vs-relative-estimation-be31c14c58aa)
+  * [Short & Long Term Estimation as a Product Manager](https://medium.com/@jmcartwright6/short-long-term-estimation-as-a-product-manager-c5b7af445347)
 * estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points, three-point)
+  * [8 Agile Estimation Techniques to Try With your Team](https://www.parabol.co/blog/agile-estimation-techniques)
 * how to solve under-/over- estimation problems for their tasks
+  * [Sprint estimation: Under vs. Over](https://internetdevels.com/blog/sprint-estimation-under-vs-over) 
+  * [12 Secrets to Overcoming Software Estimation Challenges](https://www.macadamian.com/learn/12-secrets-to-overcoming-software-estimation-challenges/) 
 * how to estimate unknown tasks
+  * [Agile project management: Estimating the unknown](https://www.techrepublic.com/blog/tech-decision-maker/agile-project-management-estimating-the-unknown/)
+  * [How to estimate a programming task if you have no experience in it [closed]](https://stackoverflow.com/questions/425044/how-to-estimate-a-programming-task-if-you-have-no-experience-in-it) 
 
 Nice to have:
 
@@ -780,6 +787,7 @@ Nice to have:
 * What is dom/cssom, how is render tree constructed (general overview)
 * What is a critical rendering path and why is it important to keep it short? What's the difference between having javascript in html async or deferred?
 * What is layout thrashing and how can you avoid it?
+  * [Beware JavaScript Layout Thrashing!](https://blog.idrsolutions.com/2014/08/beware-javascript-layout-thrashing/)
 * What's the difference between hot and cold observables?
 * Which project management framework is used on your current project? What's the difference between agile, waterfall, kanban? What kinds of projects can benefit from each?
 * What techniques of storypoint estimation do you know in agile? (planning poker, tshirt sizes, etc). What is the benefit of having storypoint estimation instead of time estimations? How do you estimate tasks that are not familiar and you're not sure how it should be implemented?
@@ -791,7 +799,9 @@ Nice to have:
 * What happens between ng serve and viewing the page on your screen?
 * Good to know: JIT and AOT, which is better and why?
 * What is behavioral testing and functional testing? What is whitebox/blackbox testing? What kind of tests are usually written? (unit, integration, E2E. differences, + describe the test pyramid)
+  * [Differences between Black Box Testing vs White Box Testing](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/#:~:text=White%20Box%20Testing%3A-,Black%20Box%20Testing,the%20program%20of%20the%20software.) 
 * General question: What would you change about javascript if you could?
+  * [What would you change about JavaScript if you could?](https://news.ycombinator.com/item?id=15197291)
 * Accessibility - for example, you have a form with two inputs and a button, what's the minimum accessibility you should take care of? (labels, using html tags like <button> instead of divs, etc)
 * How would you explain closures to someone?
 * How would you manage a team where it's only you and junior developers? How do you make sure the work is getting done?
