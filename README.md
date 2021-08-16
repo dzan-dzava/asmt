@@ -81,7 +81,6 @@ At least Intermediate level:
   * [OOP vs FP with Javascript](https://dev.to/bhaveshdaswani93/oop-vs-fp-with-javascript-39jf)
   * [Functional Programming vs. Object Oriented Programming](https://medium.com/swlh/functional-programming-vs-object-oriented-programming-48eee6cf6830)
   * [Functional Programming vs OOP](https://www.educba.com/functional-programming-vs-oop/)
-  [comment]: <> (vaxo.sv)
 * OOP
   * Encapsulation
     * [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
@@ -322,7 +321,6 @@ Advanced knowledge of:
   * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### CSS Preprocessors
-[comment]: <> (vaxo.sv)
 * Intermediate knowledge of at least one CSS pre-/post-processor (LESS, SASS/SCSS, Stylus, PostCSS)
   * [Popular CSS Preprocessors With Examples: Sass, Less & Stylus](https://raygun.com/blog/css-preprocessors-examples/)
   * [CSS Preprocessors: What? Why?…How?!](https://medium.com/@sedwardscode/css-preprocessors-what-why-how-7bc5a7a564de)
@@ -363,8 +361,6 @@ Nice to have:
   * [Responsive Web Design and Mobile First](https://betterprogramming.pub/responsive-web-design-and-mobile-first-5-basic-techniques-d89329f3e733)
 
 Basic understanding of:
-
-[comment]: <> (vaxo.sv)
 * Responsive vs Adaptive design, Mobile First approach, Desktop First
   * [What is Mobile First Design? Why It’s Important & How To Make It?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
   * [How to Take the Right Approach to Responsive Web Design](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/)
@@ -382,7 +378,6 @@ Basic understanding of:
   * [Progressive Enhancement and Graceful Degradation: Making a Choice](https://www.sitepoint.com/progressive-enhancement-graceful-degradation-choice/)
 
 ### Web Animations
-[comment]: <> (vaxo.sv)
 * Able to implement animations via CSS and JS
 * Intermediate understanding pros/cons of animation via CSS or JS
   * [CSS Versus JavaScript Animations](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript)
@@ -393,7 +388,6 @@ Basic understanding of:
   * [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
 
 ### SPA vs MPA
-[comment]: <> (vaxo.sv)
 * Intermediate understanding what are SPA and MPA applications, their pros/cons
   * [Single-page application vs. multiple-page application](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
   * [How Single-Page Applications Work](https://blog.pshrmn.com/how-single-page-applications-work/)
@@ -461,7 +455,12 @@ Advanced level of at least one:
 At least basic understanding of:
 
 * pros and cons of one more CMS / JS framework / CSS framework from the primary stack
+  * [Pros and cons of HTML and CSS frameworks](https://blog.alexdevero.com/pros-and-cons-of-html-and-css-frameworks/)
+  * [Does your web app need a front-end framework?](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/)
 * different approaches how to organize modularity, state management and code reuse on the project
+  * [What Does Modular Architecture in Angular Even Mean?](https://www.dottedsquirrel.com/modular-architecture-angular/)
+  * [State management options in Angular](https://medium.com/swlh/state-management-options-in-angular-8dcd61baf74d)
+  * [Code Reuse in Angular with Object Composition & Inheritance](https://medium.com/cp-massive-programming/code-reuse-in-angular-with-object-composition-inheritance-c7194631e522)
 
 ### T-Shape Skills
 
