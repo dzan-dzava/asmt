@@ -1,5 +1,6 @@
 # Assessment
 
+* **[JS Senior Developer Growth](https://learn.epam.com/detailsPage?id=b6a1a8db-c862-4b8e-b5eb-eff3a908e09b)**
 * **[Tech Expertise](#Tech-Expertise)**
 * **[Design Thinking and Documentation Skills](#Design-Thinking-and-Documentation-Skills)**
 * **[Quality, ENGX](#Quality-ENGX)**
@@ -495,6 +496,8 @@ Will be a plus (for JS and FE disciplines):
 
 ## Design Thinking and Documentation Skills
 
+* [Learning Design Thinking](https://learn.epam.com/detailsPage?id=484382f0-4390-4dfa-8fb4-a5991f71c801)
+
 ### Design Thinking (Decisions making)
 
 * Able to suggest and prove technical decisions (to team or/and customer)
@@ -664,6 +667,8 @@ At least basic knowledge of 1-2 branching strategies and workflows:
 
 ### Methodologies
 
+* [Agile Thinking](https://learn.epam.com/detailsPage?id=e02c186c-8c3e-4e40-a31f-c733ad0f2018)
+
 * At least basic knowledge of SDLC phases and models and understanding how SDLC is organized on current project
   * [Top 30 SDLC Interview Questions and Answers](https://www.tutorialsmate.com/2020/05/sdlc-interview-questions.html)
   * [Top 27 SDLC Interview Questions and Answers (2021 Update)](https://www.guru99.com/sdlc-interview-questions.html)
@@ -708,6 +713,11 @@ Nice to have:
 <br>
 
 ## Roles Played on a Project, Leadership, Soft Skills
+
+* [Agile Project Leadership](https://learn.epam.com/detailsPage?id=85399f9c-d633-421e-bbd7-bc3781c6fb79)
+* [Leadership Foundations](https://learn.epam.com/detailsPage?id=b5d4e041-95bb-4300-a69f-cc87b17782f2)
+* [Leadership Essentials](https://learn.epam.com/detailsPage?id=d061d7d3-3280-405d-9bf6-a9f55d3fed7f)
+* [Leading Remote Teams](https://learn.epam.com/detailsPage?id=7d94e8a3-4bd2-4d0f-8398-281db7a63997)
 
 ### Project Roles (Responsibilities)
 
