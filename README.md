@@ -793,7 +793,8 @@ Nice to have:
 <br>
 
 ## Angular
-
+[Angular Change Detection Strategy — onPush and Default Strategy](https://javascript.plainenglish.io/angular-change-detection-strategy-onpush-and-default-strategy-edd8d41ba9ef#:~:text=Angular%20Change%20Detection%20Strategy%20are,the%20Component%20inside%20the%20Decorator.)
+[Beginner in Angular: View Encapsulation in Angular](https://medium.com/@tanvishah1409/beginner-in-angular-view-encapsulation-in-angular-a09f8f31b035)
 ### Performance Optimization
 
 * [Angular Performance Optimization Techniques](https://medium.com/swlh/angular-performance-optimization-techniques-5b7ca0808f8b)
