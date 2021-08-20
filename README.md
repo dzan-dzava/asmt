@@ -794,11 +794,107 @@ Nice to have:
 <br>
 
 ## Angular
-[Angular Change Detection Strategy — onPush and Default Strategy](https://javascript.plainenglish.io/angular-change-detection-strategy-onpush-and-default-strategy-edd8d41ba9ef#:~:text=Angular%20Change%20Detection%20Strategy%20are,the%20Component%20inside%20the%20Decorator.)
-[Beginner in Angular: View Encapsulation in Angular](https://medium.com/@tanvishah1409/beginner-in-angular-view-encapsulation-in-angular-a09f8f31b035)
+
+* [Beginner in Angular: View Encapsulation in Angular](https://medium.com/@tanvishah1409/beginner-in-angular-view-encapsulation-in-angular-a09f8f31b035)
+
 ### Performance Optimization
 
 * [Angular Performance Optimization Techniques](https://medium.com/swlh/angular-performance-optimization-techniques-5b7ca0808f8b)
+
+### Compilation
+
+* [Compilation in Angular](https://medium.com/swlh/compilation-in-angular-c43782444e00)
+* [What are AOT & JIT Compiler in Angular ?](https://dev.to/imbilal1/what-are-aot-jit-compiler-in-angular-2-488h)
+* [Basic overview of Just In Time (JIT) Vs Ahead Of Time (AOT) Compilation in Angular Applications](https://medium.com/@jitubutwal144/basic-overview-of-just-in-time-jit-vs-ahead-of-time-aot-compilation-in-angular-applications-d24f04d8f7ca)
+* [Angular — JIT vs AOT, and AOT limitation](https://medium.com/fredwong-it/angular-jit-vs-aot-and-aot-limitation-71bdb0c86b9e)
+* [Just-in-Time (JIT) and Ahead-of-Time (AOT) Compilation in Angular](https://levelup.gitconnected.com/just-in-time-jit-and-ahead-of-time-aot-compilation-in-angular-8529f1d6fa9d)
+* [A Brief Intro to Ahead-of-Time (AOT) Compilation in Angular](https://betterprogramming.pub/a-brief-intro-to-ahead-of-time-aot-compilation-in-angular-f13517592cce)
+
+### Directives
+
+* [Concepts Of Angular Directives](https://medium.com/@venkateshece1105/concepts-of-angular-directives-527ae0ca5995)
+* [Directives in Angular](https://nishugoel.medium.com/directives-in-angular-9029a1a34fdf)
+* [Angular Attribute Directives: A Practical Approach](https://medium.com/@kylerjohnsondev/angular-attribute-directives-a-practical-approach-c0ff0d096510)
+* [A Practical Guide to Angular Directives](https://www.sitepoint.com/practical-guide-angular-directives/)
+* [How to use and create custom directives in Angular](https://medium.com/free-code-camp/angular-directives-learn-how-to-use-or-create-custom-directives-in-angular-c9b133c24442)
+* [Directives vs Components](https://codeburst.io/directives-vs-components-8e924dd86f20)
+
+### Lifecycle Hooks
+
+* [Lifecycle Hooks](https://codecraft.tv/courses/angular/components/lifecycle-hooks/)
+* [Angular lifecycle hooks explained](https://blog.logrocket.com/angular-lifecycle-hooks/)
+* [The Secret Life(cycle) of Components](https://medium.com/@zizzamia/the-secret-life-cycle-of-components-ee180a9a42bb)
+* [Angular Lifecycle Hooks: ngOnChanges, ngOnInit, and more](https://www.freecodecamp.org/news/angular-lifecycle-hooks/)
+* [A guide to lifecycle hooks in Angular](https://pusher.com/tutorials/lifecycle-hooks-angular/)
+* [Component Life Cycle Hooks in Angular](https://www.tektutorialshub.com/angular/angular-component-life-cycle-hooks/)
+* [Angular Component Lifecycle Hooks](https://medium.com/@KanikaSaluja43/angular-component-lifecycle-hooks-773cd9404af)
+* [The A to Z Guide to Angular Lifecycle](https://medium.com/@sagar_tambe/the-a-to-z-guide-to-angular-lifecycle-ff42b892c311)
+* [Angular — Understanding Angular lifecycle hooks with a Sample Project](https://medium.com/bb-tutorials-and-thoughts/angular-understanding-angular-lifecycle-hooks-with-a-sample-project-375a61882478)
+
+### Difference between Constructor and ngOnInit
+
+* [Difference between Constructor and ngOnInit — in Angular](https://shuaibabdulla40.medium.com/difference-between-constructor-and-ngoninit-in-angular-885172bb5fcd)
+* [What is the difference between Constructor and ngOnInit?](https://blog.briebug.com/blog/what-is-the-difference-between-constructor-and-ngoninit)
+* [How to choose between constructor and ngOnInit in your Angular apps](https://javascript.plainenglish.io/how-to-choose-between-constructor-and-ngoninit-in-your-angular-apps-f16987627312)
+* [NgOnInit vs Constructor in Angular](https://javascript.plainenglish.io/ngoninit-vs-constructor-in-angular-75db8cfa0e17)
+
+### Building Blocks
+
+* [Building blocks of Angular](https://medium.com/bycodegarage/building-blocks-of-angular-eafbb289b6d6)
+* [Angular: Understanding Modules and Services](https://michelestieven.medium.com/organizing-angular-applications-f0510761d65a)
+* [Building Blocks of Angular](https://www.codeproject.com/Articles/1255334/Building-Blocks-of-Angular)
+
+### Share Data Between Components
+
+* [Sharing Data between Angular Components - Four Methods](https://fireship.io/lessons/sharing-data-between-angular-components-four-methods/)
+* [5 ways to share data between Angular components](https://levelup.gitconnected.com/5-ways-to-share-data-between-angular-components-d656a7eb7f96)
+* [Sharing Data Between Angular Components](https://enlear.academy/sharing-data-between-angular-components-f76fa680bf76)
+* [How to Pass Data Between Components in Angular 8](https://medium.com/weekly-webtips/how-to-pass-data-between-components-in-angular-8-c6bfc0358cd2)
+* [Sharing data between components in Angular](https://medium.com/@onejohi/sharing-data-between-components-in-angularjs-c34ff20b7fee)
+
+### Dependency Injection
+
+* [Angular Dependency Injection Explained with Examples](https://www.freecodecamp.org/news/angular-dependency-injection/)
+* [What you always wanted to know about Angular Dependency Injection tree](https://medium.com/angular-in-depth/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
+* [Angular Services and Dependency Injection Explained](https://www.freecodecamp.org/news/angular-services-and-dependency-injection-explained/)
+* [Angular Dependency Injection (DI) Explained](https://egghead.io/courses/angular-dependency-injection-di-explained)
+* [Angular: Dependency Injection and the function of Injectors & Providers](https://mobilelive.medium.com/angular-dependency-injection-and-the-function-of-injectors-providers-69fb0c50ace8)
+* [Dependency Injection in Angular](https://medium.com/@monalisorathiya8/dependency-injection-in-angular-93172727bc82)
+* [What can you provide with Dependency Injection in Angular?](https://medium.com/its-tinkoff/what-can-you-provide-with-dependency-injection-in-angular-d7adcfd42db)
+* [Total Guide To Angular 6–11 Dependency Injection — providedIn vs providers:[ ]](https://tomastrajan.medium.com/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f)
+* [Angular DI: Getting to know the Ivy NodeInjector](https://medium.com/angular-in-depth/angular-di-getting-to-know-the-ivy-nodeinjector-33b815642a8e)
+
+### Lazy Loading
+
+* [Lazy load Angular components](https://medium.com/angular-in-depth/lazy-load-components-in-angular-596357ab05d8)
+* [Angular Lazy Loading](https://medium.com/front-end-weekly/angular-lazy-loading-7450dbab8bf0)
+
+### Change Detection
+
+* [The Last Guide For Angular Change Detection You'll Ever Need](https://www.mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
+* [Angular Change Detection Strategy — onPush and Default Strategy](https://javascript.plainenglish.io/angular-change-detection-strategy-onpush-and-default-strategy-edd8d41ba9ef)
+* [Angular OnPush Change Detection and Component Design - Avoid Common Pitfalls](https://blog.angular-university.io/onpush-change-detection-how-it-works/)
+* [A Comprehensive Guide to Angular onPush Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
+* [Angular Performances Part 4 - Change detection strategies](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
+* [Angular Change Detection and the OnPush Strategy](https://www.toptal.com/angular/angular-change-detection)
+* [Everything you need to know about change detection in Angular](https://indepth.dev/posts/1053/everything-you-need-to-know-about-change-detection-in-angular)
+* [Angular Change Detection](https://www.oncehub.com/blog/angular-change-detection)
+* [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
+* [How to improve performance of Angular application with Change Detection and NgZone](https://medium.com/swlh/angular-change-detection-ngzone-a5103fab3866)
+* [Angular Change Detection - How Does It Really Work?](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+
+### Pipes
+
+* [Step by Step Custom Pipes in Angular](https://ultimatecourses.com/blog/angular-pipes-custom-pipes)
+* [Understanding Angular Pipes](https://itnext.io/understanding-angular-pipes-5d1154f57d4f)
+* [Custom Pipes](https://codecraft.tv/courses/angular/pipes/custom-pipes/)
+* [5 USAGE IDEAS FOR ANGULAR PIPES](https://www.lucidchart.com/techblog/2017/11/08/5-usage-ideas-for-angular-pipes/)
+* [Angular Pipes Explained: How to Transform Template Data Directly](https://www.freecodecamp.org/news/angular-pipes-explained-how-to-transform-template-data-directly/)
+* [Increase Your Apps Performance With Angular Pipes](https://medium.com/@josce.james7/increase-your-apps-performance-with-angular-pipes-4690ff001cf9)
+* [Create Generic Angular Pipes | pure & impure](https://medium.com/simars/create-generic-angular-pipes-apply-and-applypure-b5dc0464ff0d)
+* [The essential difference between pure and impure pipes in Angular and why that matters](https://indepth.dev/posts/1061/the-essential-difference-between-pure-and-impure-pipes-in-angular-and-why-that-matters)
+* [Angular - Pure vs Impure Pipe](https://dev.to/ng_suhas/angular-pure-vs-impure-pipe-3lm)
+* [Angular — Understanding pipes and Different ways to use them](https://medium.com/bb-tutorials-and-thoughts/angular-understanding-pipes-and-different-ways-to-use-them-cb5e9e43dcd4)
 
 <br>
 
