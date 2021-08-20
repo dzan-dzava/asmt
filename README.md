@@ -208,6 +208,7 @@ Nice to have:
 ### Performance
 
 Intermediate knowledge and experience of performance optimizations:
+[Front-End Performance Checklist 2021 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/?fbclid=IwAR2GZB7dKgE9-xHwQA40F2sl4fnIFfwi4rwRRZpI4I3KnCFrIRw2GSV4N8g)
 
 * JavaScript Profiling and Debugging
   * [JavaScript Profiling With The Chrome Developer Tools](https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/)
