@@ -800,6 +800,9 @@ Nice to have:
 ### Performance Optimization
 
 * [Angular Performance Optimization Techniques](https://medium.com/swlh/angular-performance-optimization-techniques-5b7ca0808f8b)
+* [The Complete Guide To Angular Performance Tuning](https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/)
+* [10 Tricks to Optimize Your Angular App](https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0)
+* [Angular Performance Tuning: 15 Ways to Build Sophisticated Web Apps](https://www.simform.com/blog/angular-performance/)
 
 ### Compilation
 
@@ -895,6 +898,31 @@ Nice to have:
 * [The essential difference between pure and impure pipes in Angular and why that matters](https://indepth.dev/posts/1061/the-essential-difference-between-pure-and-impure-pipes-in-angular-and-why-that-matters)
 * [Angular - Pure vs Impure Pipe](https://dev.to/ng_suhas/angular-pure-vs-impure-pipe-3lm)
 * [Angular — Understanding pipes and Different ways to use them](https://medium.com/bb-tutorials-and-thoughts/angular-understanding-pipes-and-different-ways-to-use-them-cb5e9e43dcd4)
+
+### HttpInterceptor
+
+* [Intro to Angular Http Interceptors](https://ultimatecourses.com/blog/intro-to-angular-http-interceptors)
+* [HTTP interceptors in Angular](https://blog.angulartraining.com/http-interceptors-in-angular-61dcf80b6bdd)
+* [How To Use Angular Interceptors to Manage HTTP Requests and Error Handling](https://www.digitalocean.com/community/tutorials/how-to-use-angular-interceptors-to-manage-http-requests-and-error-handling)
+* [7 Ways to Leverage HttpInterceptors in Angular](https://blog.bitsrc.io/7-ways-to-leverage-httpinterceptors-in-angular-59436611844d)
+* [Caching with HttpInterceptor in Angular](https://blog.logrocket.com/caching-with-httpinterceptor-in-angular/)
+* [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
+
+### Forms
+
+* [Angular Forms Guide - Template Driven and Reactive Forms](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
+* [Angular Forms](https://dotnettutorials.net/lesson/angular-forms/)
+* [A Deeper Look at Angular Template Driven Forms](https://javascript.plainenglish.io/a-deeper-look-at-angular-template-driven-form-ffd7d4856679)
+* [Angular: Nested Reactive Forms Using ControlValueAccessors(CVAs)](https://medium.com/angular-in-depth/angular-nested-reactive-forms-using-cvas-b394ba2e5d0d)
+* [Implementing Control Value Accessor in Angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf)
+* [What are the practical differences between template-driven and reactive forms?](https://stackoverflow.com/questions/39142616/what-are-the-practical-differences-between-template-driven-and-reactive-forms)
+
+### Zone.js
+
+* [What the hell is Zone.js and why is it in my Angular 2?](https://medium.com/@MertzAlertz/what-the-hell-is-zone-js-and-why-is-it-in-my-angular-2-6ff28bcf943e)
+* [What is Zone.js?](https://blog.bitsrc.io/how-angular-uses-ngzone-zone-js-for-dirty-checking-faa12f98cd49)
+* [How the hell does zone.js really work?](https://blog.strongbrew.io/how-the-hell-do-zones-really-work/)
+* [10 Things Every Angular Developer Should Know About Zone.js](https://betterprogramming.pub/zone-js-for-angular-devs-573d89bbb890)
 
 <br>
 
