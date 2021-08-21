@@ -8,6 +8,7 @@
 * **[Roles Played on a Project, Leadership, Soft Skills](#Roles-Played-on-a-Project-Leadership-Soft-Skills)**
 * **[Angular](#Angular)**
 * **[RxJS](#RxJS)**
+* **[NgRx](#NgRx)**
 * **[Shared Experience](#Shared-Experience)**
 
 <br>
@@ -26,6 +27,7 @@
   * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
   * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
   * [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+  * [Understanding offsetWidth, clientWidth, scrollWidth and -Height, respectively](https://stackoverflow.com/questions/21064101/understanding-offsetwidth-clientwidth-scrollwidth-and-height-respectively)
 * Knowing the pros and cons of using TypeScript/Flow on the project
   * [Why use TypeScript, good and bad reasons](https://itnext.io/why-use-typescript-good-and-bad-reasons-ccd807b292fb)
   * [Why TypeScript is the best way to write Front-end in 2019–2020+](https://jackthenomad.com/why-typescript-is-the-best-way-to-write-front-end-in-2019-feb855f9b164)
@@ -130,6 +132,7 @@ Intermediate knowledge of:
   * [7 HTTP methods every web developer should know and how to test them](https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them)
   * [HTTP Methods](https://restfulapi.net/http-methods/)
   * [Ultimate Guide To 9 Common HTTP Methods](https://nordicapis.com/ultimate-guide-to-all-9-standard-http-methods/)
+  * [The Simple Six HTTP methods: ELI15 Edition](https://levelup.gitconnected.com/the-simple-six-http-methods-eli15-edition-53f336b1ebd)
 * WS vs Polling
   * [WebSockets vs Long Polling](https://ably.com/blog/websockets-vs-long-polling)
   * [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
@@ -139,6 +142,9 @@ Intermediate knowledge of:
   * [REST API (RESTful API)](https://searchapparchitecture.techtarget.com/definition/RESTful-API)
   * [What is REST API? | REST API Tutorial | REST API Concepts and Examples | Edureka](https://www.youtube.com/watch?v=rtWH70_MMHM)
   * [What’s the Difference Between REST and RESTful?](https://nordicapis.com/whats-the-difference-between-rest-and-restful/)
+  * [How to build a RESTful API — A Deep Dive into REST APIs](https://itnext.io/how-to-build-a-restful-api-a-deep-dive-into-rest-apis-215188f80854)
+  * [What is REST API? — A Comprehensive Guide To RESTful APIs](https://medium.com/edureka/what-is-rest-api-d26ea9000ee6)
+  * [Using HTTP Methods for RESTful Services](https://www.restapitutorial.com/lessons/httpmethods.html)
 
 Nice to have:
 
@@ -803,6 +809,8 @@ Nice to have:
 * [The Complete Guide To Angular Performance Tuning](https://christianlydemann.com/the-complete-guide-to-angular-performance-tuning/)
 * [10 Tricks to Optimize Your Angular App](https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0)
 * [Angular Performance Tuning: 15 Ways to Build Sophisticated Web Apps](https://www.simform.com/blog/angular-performance/)
+* [Top 50 Interview Questions On Angular](https://codersera.com/blog/top-50-interview-questions-on-angular/)
+* [Rangle.io : Angular Training](https://angular-training-guide.rangle.io/observables/error_handling)
 
 ### Compilation
 
@@ -931,6 +939,7 @@ Nice to have:
 <br>
 
 ## RxJS
+
 * [Most frequently asked RxJS Interview Questions](https://www.codeusingjava.com/interview/rxjs)
 * [Understanding hot vs cold Observables](https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03)
 * [Understanding rxjs Subjects](https://luukgruijs.medium.com/understanding-rxjs-subjects-339428a1815b)
@@ -938,8 +947,31 @@ Nice to have:
 * [RxJS Best Practices](https://betterprogramming.pub/rxjs-best-practices-7f559d811514)
 * [Must Know RxJS Interview Questions](https://www.techgeeknext.com/angular/angular-interview-questions)
 * [RxJS Interview Questions](https://www.javatpoint.com/rxjs-interview-questions)
-* [Most frequently asked RxJS Interview Questions](https://www.codeusingjava.com/interview/rxjs)
+* [Learn RxJS switchMap, mergeMap, concatMap and exhaustMap, FOREVER!](https://medium.com/@shairez/a-super-ninja-trick-to-learn-rxjss-switchmap-mergemap-concatmap-and-exhaustmap-forever-88e178a75f1b)
 * [Comprehensive Guide to Higher-Order RxJs Mapping Operators: switchMap, mergeMap, concatMap (and exhaustMap)](https://blog.angular-university.io/rxjs-higher-order-mapping/)
+* [Understanding RxJS map, mergeMap, switchMap and concatMap](https://luukgruijs.medium.com/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff)
+* [RxJS switchMap, concatMap, mergeMap, exhaustMap](https://dev.to/angular/rxjs-switchmap-concatmap-mergemap-exhaustmap-13io)
+* [RxJS beginner learning resources](https://dev.to/codechips/rxjs-beginner-learning-resources-4b5e)
+* [JavaScript Promises vs. RxJS Observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2)
+* [JavaScript Theory: Promise vs Observable](https://medium.com/javascript-everyday/javascript-theory-promise-vs-observable-d3087bc1239a)
+* [Understanding rxjs BehaviorSubject, ReplaySubject and AsyncSubject](https://luukgruijs.medium.com/understanding-rxjs-behaviorsubject-replaysubject-and-asyncsubject-8cc061f1cfc0)
+* [Reactive Angular : Understanding AsyncSubject, BehaviorSubject and ReplaySubject](https://dev.to/vaibsgharge/reactive-angular-understanding-asyncsubject-behaviorsubject-and-replaysubject-b0j)
+* [What Is a Higher-Order Observable?](https://blogs.msmvps.com/deborahk/higher-order-observable/)
+* [Master RxJs: flatMap vs switchMap vs concatMap vs exhaustMap](https://larsholdaas.medium.com/master-rxjs-flatmap-vs-switchmap-vs-concatmap-vs-exhaustmap-7b5b8640bc39)
+* [Higher Order Observables](https://gianttoast.gitbooks.io/rxjs-observables/content/higher-order-observables.html)
+* [mergeMap vs exhaustMap vs switchMap vs concatMap](https://thinkrx.io/rxjs/mergeMap-vs-exhaustMap-vs-switchMap-vs-concatMap/)
+
+<br>
+
+**[🡱 Back to Top 🡱](#Assessment)**
+
+<br>
+
+## NgRx
+
+* [Angular: NGRX a clean and clear introduction](https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc)
+* [Angular: Get Started With NgRx](https://betterprogramming.pub/angular-getting-started-with-ngrx-75b9139c23eb)
+* [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/)
 
 <br>
 
