@@ -46,6 +46,11 @@ At least Intermediate level:
 * Basic operations: sort, map, filter, reduce
   * [Javascript.reduce()](https://andepaulj.medium.com/javascript-reduce-79aab078da23)
   * [5 Use Cases for reduce() in JavaScript](https://javascript.plainenglish.io/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
+  * [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+  * [WeakMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap)
+  * [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+  * [WeakSet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet/WeakSet)
+  * [Map and Set](https://javascript.info/map-set)
 * Algorithms complexity basics (O(1), O(N), ...)
   * [Why is Time Complexity Essential and What is Time Complexity?](https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/)
   * [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
